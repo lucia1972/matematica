@@ -50,9 +50,9 @@
 
 > „Hai să vedem cum ne poate ajuta axa numerelor.”
 >
-> „Să zicem că plecăm de la 4 și adunăm 3.”
->  ✍️ `4 + 3`
->  „Pe axa numerelor, ne mutăm 3 unități spre dreapta. Ajungem la 7.”
+> „Să zicem că plecăm de la 5 și adunăm 3.”
+>  ✍️ `5 + 3`
+>  „Pe axa numerelor, ne mutăm 3 unități spre dreapta. Ajungem la 8.”
 >
 > ✍️ *(desenează o axă de la 0 la 10 și marchează săriturile)*
 
