@@ -2,7 +2,7 @@
 
 🎯 **Ce ne propunem azi?**
 
-– Să învățăm cum comparăm două sau mai multe numere naturale, folosind reguli clare și sigure.
+ – Să învățăm cum comparăm două sau mai multe numere naturale, folosind reguli clare și sigure.
  – Să știm când un număr este mai mare sau mai mic decât altul.
  – Să folosim simbolurile <, > și = corect.
  – Să formăm șiruri ordonate de numere, crescător sau descrescător.
@@ -192,8 +192,8 @@ Ordine descrescătoare = de la cel mai mare la cel mai mic
 ```
 1. Care număr e mai mare: 872 sau 827?  
 2. Pune semnul corect: 436 ___ 431  
-3. Ordinează crescător: 91, 45, 102, 12  
-4. Ordinează descrescător: 78, 4, 99, 56  
+3. Ordonează crescător: 91, 45, 102, 12  
+4. Ordonează descrescător: 78, 4, 99, 56  
 5. Care e mai spre dreapta pe axă: 23 sau 19?
 ```
 
