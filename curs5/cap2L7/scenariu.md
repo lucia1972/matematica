@@ -153,7 +153,7 @@ Exemplu:
    – Câte coli rămân?
 
 3. Un autobuz poate transporta 28 de elevi. Sunt 145 de elevi în total.  
-   – Câți autobuze trebuie să plece complet pline?  
+   – Câte autobuze trebuie să plece complet pline?  
    – Câți elevi rămân pentru următorul tur?
 ```
 
