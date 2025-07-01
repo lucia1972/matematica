@@ -1,49 +1,216 @@
-Lecție: Scrierea și citirea numerelor naturale (clasa a V-a)
-•	🎯 Obiective ale lecției:
-•	– Să înțeleagă scrierea pozițională a numerelor naturale.
-•	– Să recunoască clasele și ordinea cifrelor într-un număr.
-•	– Să citească și să scrie corect numere naturale de până la un miliard.
-•	– Să înțeleagă ce este un palindrom și un număr răsturnat.
+------
 
-🔹 1. Scrierea pozițională
-Fiecare cifră dintr-un număr natural are o valoare diferită, în funcție de locul pe care îl ocupă. 
-Aceasta se numește scriere pozițională. De exemplu, cifra 3 are altă valoare în numărul 3 decât în 30 sau 300.
+# 📘 Lecția 1: Scrierea și citirea numerelor naturale
 
-🔹 2. Clasele și ordinea cifrelor
-Un număr natural este format din cifre grupate câte 3, de la dreapta la stânga. 
-Fiecare grup de trei cifre se numește clasă.
-În fiecare clasă avem trei ordine: unități, zeci și sute.
-•Clasele sunt (de la dreapta la stânga):
-•	– Clasa unităților: unități, zeci, sute
-•	– Clasa miilor: unități de mii, zeci de mii, sute de mii
-•	– Clasa milioanelor: unități de milioane, zeci de milioane, sute de milioane
-•	– Clasa miliardelor (dacă este cazul)
+🎯 **Ce ne propunem azi?**
 
-🔹 3. Citirea și scrierea numerelor în baza 10
-Scriem numerele de la stânga la dreapta, dar citim clasele de la stânga la dreapta:
-Exemplu: 583 014 206 se citește „cinci sute optzeci și trei de milioane, paisprezece mii două sute șase”.
+– Să învățăm cum scriem și citim corect numerele, indiferent cât de mari sunt.
+ – Să descoperim ce înseamnă „scriere pozițională” și de ce contează locul unei cifre într-un număr.
+ – Să înțelegem ce e un **palindrom** și ce înseamnă un **număr răsturnat**.
 
-🔹 4. Număr răsturnat și palindrom
-Numărul răsturnat este același număr scris cu cifrele în ordine inversă. Exemplu: 123 → 321
-Un palindrom este un număr care se citește la fel de la stânga la dreapta și de la dreapta la stânga. 
-Exemplu: 121, 7447
+------
 
-🔹 5. Exemple de numere
-– Număr cu o cifră: 7 → „șapte”
-– Număr cu două cifre: 42 → „patruzeci și doi”
-– Număr cu trei cifre: 358 → „trei sute cincizeci și opt”
-– Număr cu șase cifre: 456 731 → „patru sute cincizeci și șase de mii șapte sute treizeci și unu”
-– Număr cu nouă cifre: 325 716 902 → „trei sute douăzeci și cinci de milioane șapte sute șaisprezece mii nouă sute doi”
+## 🔔 INTRODUCERE – Hai să începem cu ceva interesant!
 
-🔹 6. Probleme aplicative
-1. Populația unui oraș este 248 000. 
-Alt oraș are o populație de 1 206 000. 
-Scrie cele doua numere.
+🎙️
 
-2. Care este rasturnatul numarului 564398?
+> „Imaginează-ți că citești următoarea propoziție:
+>  *Dunărea are 2.858 de kilometri.*
+>  Sau că vezi la știri: *Populația României a trecut de 19.000.000 de locuitori.*
+>
+> Dar… ai idee câte **cifre** sunt acolo? Cum le scriem corect? Și cum le citim?”
 
-3. Numarul 45677654 este palindrom? 
+🧠
 
-4. Cate numere natural de 2 cifre palindrom exista? Dar de 3 cifre?
+> „Azi învățăm să ne descurcăm cu astfel de numere. Chiar dacă au multe cifre, n-o să ne mai sperie!”
 
-5. Care sunt numerele naturale de forma $\overline{9ac}$ care sa aiba cifra unitatilor para si cifra zecilor jumatate din cifra unitatilor?
+------
+
+## ✍️ 1. Ce sunt numerele naturale?
+
+(scrii titlul pe tabletă)
+
+```
+Numere naturale – sistemul zecimal
+```
+
+🎙️
+
+> „Numerele naturale sunt cele pe care le folosim zilnic:
+>  0, 1, 2, 3, 4, 5… și tot așa, până la infinit.”
+
+✍️ *(scrii cifrele)*
+
+```
+0 1 2 3 4 5 6 7 8 9
+```
+
+🎙️
+
+> „Doar cu aceste 10 cifre putem construi orice număr. Cum? Folosind poziția fiecărei cifre.”
+
+------
+
+## 🔹 2. Cum funcționează scrierea pozițională?
+
+🎙️
+
+> „Uite un exemplu simplu: cifra **3** poate să însemne… doar 3.”
+>  ✍️ `3`
+
+> „Dar în alt loc, poate însemna 30…”
+>  ✍️ `30`
+
+> „… sau 300.”
+>  ✍️ `300`
+
+🎙️
+
+> „Deci **poziția** cifrei determină valoarea ei. De asta numim acest sistem **pozițional**.”
+
+------
+
+## 🔹 3. Clasele și ordinele cifrelor
+
+🎙️
+
+> „Ca să nu ne încurcăm cu cifrele când scriem numere mari, le grupăm în câte trei, de la dreapta la stânga.”
+
+✍️ *(construiești tabelul cu mâna)*
+
+```
+| Miliarde | Milioane | Mii     | Unități  |
+|----------|----------|---------|----------|
+| Sute     | Sute     | Sute    | Sute     |
+| Zeci     | Zeci     | Zeci    | Zeci     |
+| Unități  | Unități  | Unități | Unități  |
+```
+
+🎙️
+
+> „Fiecare **clasă** are 3 **ordine**: unități, zeci și sute.
+>  Așa ne e mult mai ușor să citim și să scriem corect numerele mari.”
+
+------
+
+## 🔹 4. Hai să luăm un exemplu!
+
+🎙️
+
+> „Scriem numărul: patruzeci și trei de milioane, o sută cinci mii, opt sute șaptezeci și trei.”
+
+✍️
+
+```
+43 105 873
+```
+
+🎙️
+
+> „Și îl descompunem așa, ca sumă de produse:”
+
+✍️
+
+```
+= 4 × 10 000 000  
++ 3 × 1 000 000  
++ 1 × 100 000  
++ 0 × 10 000  
++ 5 × 1 000  
++ 8 × 100  
++ 7 × 10  
++ 3 × 1
+```
+
+🎙️
+
+> „Acum știm exact ce înseamnă fiecare cifră și cât valorează.
+>  Cifra 4 e la zecile de milioane – adică 40 de milioane!”
+
+------
+
+## 🔹 5. Ce e un palindrom? Dar un număr răsturnat?
+
+🎙️
+
+> „Un **număr răsturnat** e același număr, dar cu cifrele în ordine inversă.”
+>  ✍️ `123 → 321`
+
+> „Un **palindrom** e un număr care se citește la fel în ambele sensuri.”
+>  ✍️ `121, 7447, 888`
+
+🎙️
+
+> „E ca numele ANA sau cuvântul RADAR – la fel de la stânga și de la dreapta!”
+
+------
+
+## 🔹 6. Să citim câteva numere!
+
+🎙️
+
+> „Hai să vedem cum citim numerele, indiferent câte cifre au.”
+
+✍️ *(scrii și citești cu voce tare)*
+
+```
+7 – șapte  
+42 – patruzeci și doi  
+358 – trei sute cincizeci și opt  
+456 731 – patru sute cincizeci și șase de mii șapte sute treizeci și unu  
+325 716 902 – trei sute douăzeci și cinci de milioane șapte sute șaisprezece mii nouă sute doi
+```
+
+------
+
+## 🔹 7. Hai la câteva provocări rapide!
+
+🎙️
+
+> „Gândește-te bine și răspunde pe caiet sau cu voce tare:”
+
+✍️
+
+```
+1. Populația unui oraș este 248 000.  
+   Altul are 1 206 000. Scrie aceste numere.  
+
+2. Care este răsturnatul lui 564398?  
+
+3. 45677654 este palindrom?
+
+4. Câte palindroame de 2 cifre există? Dar de 3?
+
+5. Numărul de forma 9ac are cifra unităților pară, iar cifra zecilor este jumătate din cifra unităților. Care sunt posibilele numere?
+
+6. În 149 600 000, ce clasă are cifra 9? Ce ordin?
+```
+
+🎙️
+
+> „Oprește videoclipul dacă ai nevoie de timp. Când ești gata, revenim cu răspunsurile împreună!”
+
+------
+
+## 🔁 Recapitulare
+
+✍️
+
+```
+– Numerele naturale: 0, 1, 2, 3, …  
+– Se scriu în sistem zecimal  
+– Fiecare cifră are un ordin și face parte dintr-o clasă  
+– Scrierea pozițională dă valoare cifrei  
+– Putem avea numere răsturnate și palindroame  
+```
+
+✍️ *(fraza de încheiere, mare și clară)*
+
+```
+Poziția dă puterea cifrei!
+```
+
+🎙️
+
+> „Ține minte: aceeași cifră poate însemna 5… sau 5 milioane. Totul ține de poziție!”
+
