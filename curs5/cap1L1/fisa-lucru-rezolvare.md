@@ -1,4 +1,4 @@
-Fisa de lucru - Scrierea și citirea numerelor naturale - rezolvare
+# Fisa de lucru - Scrierea și citirea numerelor naturale - rezolvare
 
 1. Scriere pozițională și citire corectă
 Scrie în cuvinte numerele următoare, indicând clasa și ordinul fiecărei cifre:
