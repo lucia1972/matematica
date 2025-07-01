@@ -1,5 +1,6 @@
 ## ✨ Quizz: Scrierea si citirea numerelor naturale, reprezentarea numerelor pe axa numerelor
 
+trebuie adaugat la el si pentru lectiile 3 si 4
 Obiective urmarite:
 Recunoașterea succesorului și predecesorului unui număr natural - Exersează noțiunile de succesiune și ordonare în mulțimea numerelor naturale.
 Identificarea corectă a conceptului de răsturnare a unui număr - Fixează ideea de inversare a cifrelor unui număr în ordine.
