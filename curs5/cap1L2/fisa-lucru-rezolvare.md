@@ -1,108 +1,120 @@
-# Fișa de lucru - Reprezentarea numerelor naturale pe axa numerelor
+# Fișa de lucru - Reprezentarea numerelor naturale pe axa numerelor - rezolvare
 ---
-
 ## 1. Completează spațiile libere:
 
-a) Succesorul lui 39 este _______________________________
+📘 *Succesor* înseamnă numărul imediat **mai mare**, iar *predecesor* – **mai mic**.
 
-b) Predecesorul lui 100 este _______________________________
+a) Succesorul lui 39 este **40**
 
-c) Succesorul lui 0 este _______________________________
+b) Predecesorul lui 100 este **99**
 
-d) Predecesorul lui 1 este _______________________________
+c) Succesorul lui 0 este **1**
+
+d) Predecesorul lui 1 este **0**
+
 
 ---
 
 ## 2. Pe o axă de la 0 la 10, ce număr este la mijloc între:
 
-a) 2 și 6: _______________________________
+📘 *La mijloc* înseamnă media dintre cele două numere → le aduni și împarți la 2.
 
-b) 3 și 9: _______________________________
+a) 2 și 6: (2 + 6) ÷ 2 = **4**
 
-c) 1 și 5: _______________________________
+b) 3 și 9: (3 + 9) ÷ 2 = **6**
+
+c) 1 și 5: (1 + 5) ÷ 2 = **3**
 
 ---
 
-## 3. Desenează o axă de la 0 la 20 (din 1 în 1) și marchează punctele:
+## 3. Desenează o axă de la 0 la 20 (din 1 în 1) și marchează:
 
-* A(4), B(9), C(14), D(18)
+**Puncte**: A(4), B(9), C(14), D(18)
 
-Apoi răspunde:
+📘 Răspunsuri:
 
-a) Ce punct este cel mai aproape de 0?
+a) Cel mai aproape de 0 → **A(4)**
 
-b) Care două puncte sunt la distanță de 5 unități unul de altul?
+b) Distanță de 5 unități → **A(4) și B(9)**, **B(9) și C(14)**
 
-c) Între ce puncte se află punctul B?
+c) B este între → **A și C**
 
 ---
 
 ## 4. Întrebare de raționament:
 
-Pe o axă de la 0 la 100, din 10 în 10, cine este mai aproape de origine:
+📘 Originea este **0**.
 
-– punctul P(30) sau punctul Q(70)?
+– P(30) este la 30 unități de 0
 
-**Răspuns: _______________________________**  **Explicație: _______________________________**
+– Q(70) este la 70 unități de 0
+
+**Răspuns: P(30)**
+
+**Explicație: pentru că 30 este mai aproape de 0 decât 70**
 
 ---
 
-## 5. Găsește numerele lipsă de pe această axă:
+## 5. Găsește numerele lipsă:
 
 ```
 ___ — 15 — ___ — 25 — ___ — ___ — 40
 ```
 
+📘 Observăm că numerele cresc cu 5 unități:
+
+→ 10 — 15 — 20 — 25 — 30 — 35 — 40
+
 ---
 
-## 6. Desenează o axă a numerelor de la 0 la 50 din 5 în 5 și marchează punctele:
+## 6. Desenează o axă de la 0 la 50 din 5 în 5 și marchează:
 
-* X(10), Y(20), Z(45)
+**Puncte**: X(10), Y(20), Z(45)
 
-Apoi răspunde:
+📘 Răspunsuri:
 
-a) Câte unități sunt între X și Z?
+a) X = 10, Z = 45 → 45 – 10 = **35 unități**
 
-b) Cine este la mijloc între X și Y?
+b) Între X și Y: (10 + 20) ÷ 2 = **15** → la mijloc este **15**
 
 ---
 
 ## 7. Pe o axă de la 0 la 200, dacă 1 cm = 10 unități:
 
-a) Cât va avea axa în cm?
+a) 200 ÷ 10 = **20 cm** lungime
 
-b) Ce distanță este între punctele A(30) și B(150)?
+b) Distanța între A(30) și B(150): 150 – 30 = **120 unități** → 120 ÷ 10 = **12 cm**
 
 ---
 
 ## 8. Cine este succesorul și predecesorul fiecărui punct?
 
-```
-A(11) → succesor: ________ predecesor: ________
+📘 Succesor = +1, Predecesor = –1
 
-B(0) → succesor: ________ predecesor: ________
+A(11) → succesor: **12** predecesor: **10**
 
-C(99) → succesor: ________ predecesor: ________  
-```
+B(0) → succesor: **1** predecesor: **nu există** (0 e cel mai mic numar natural)
+
+C(99) → succesor: **100** predecesor: **98**
 
 ---
 
-## 9. Ordonează crescător numerele:
+## 9. Ordonează crescător:
 
-```
-65  12  48  9  27  33
-```
+📘 De la cel mai mic la cel mai mare:
+
+**9, 12, 27, 33, 48, 65**
 
 ---
 
 ## 10. Problema bonus:
 
-Pe o axă, Andrei a marcat punctele A(16) și B(36).
+A(16) și B(36) → punctul C este la mijloc:
 
-El spune că punctul C este la mijloc între ele.
+(16 + 36) ÷ 2 = 52 ÷ 2 = **26**
 
-Care este valoarea punctului C?
-
-**Răspuns: _______________________________**
+**Răspuns: 26**
 
 ---
+
+🎉 **Felicitări!** Ai rezolvat cu succes fișa! Ai folosit axa numerelor ca un adevărat explorator de matematică! 🧭📏
