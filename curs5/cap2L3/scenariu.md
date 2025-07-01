@@ -1,231 +1,192 @@
-> ## ✨ Lecție: Înmulțirea numerelor naturale
+> # 📘 Lecția 3: Înmulțirea numerelor naturale
+>
+> 🎯 **Ce ne propunem azi?**
+>
+> – Să înțelegem ce este înmulțirea și cum o putem interpreta ca adunare repetată.
+>  – Să cunoaștem termenii: **factor**, **produs**.
+>  – Să reprezentăm înmulțirea pe **axa numerelor**.
+>  – Să descoperim **proprietățile** înmulțirii: comutativă, asociativă, element neutru, element absorbant, distributivitate.
+>  – Să învățăm **strategii inteligente de calcul mental**.
+>  – Să aplicăm înmulțirea în situații reale, prin probleme.
 >
 > ------
 >
-> ### 🔹 1. Ce este înmulțirea?
+> ## 🔔 INTRODUCERE – Când folosim înmulțirea?
 >
-> 👉 **Înmulțirea** este o **adunare repetată**.
+> 🎙️
 >
-> > Exemplu:
-> >  4 × 3 = înseamnă **3 + 3 + 3 + 3** = 12
+> > „Imaginează-ți că într-un cinema sunt 6 rânduri, iar fiecare rând are 12 scaune.
+> >  Câte locuri sunt în total?”
+> >
+> > „Ai putea să aduni de 6 ori numărul 12… sau poți să faci **o singură înmulțire**!”
 >
-> 📌 În expresia `4 × 3 = 12`:
+> 🎙️
 >
-> - **4** este **factorul 1**
-> - **3** este **factorul 2**
-> - **12** este **produsul**
->
-> ------
->
-> ### 🔹 2. Proprietăți importante
->
-> ✅ **Comutativitatea**
->
-> > Putem schimba ordinea factorilor:
-> >  `a × b = b × a`
->
-> 📌 **Exemple utile:**
->
-> - 3 × 25 = 25 × 3 → e mai ușor să calculezi 25 × 3 = 75
-> - 4 × 1000 = 1000 × 4 → 4000
-> - 7 × 5 = 5 × 7 → 35
+> > „Înmulțirea este metoda noastră rapidă de a aduna **grupuri egale**.”
 >
 > ------
 >
-> ✅ **Asociativitatea**
+> ## ✍️ 1. Ce este înmulțirea? Cum o scriem?
 >
-> > Putem grupa cum vrem:
-> >  `(a × b) × c = a × (b × c)`
+> 🎙️
 >
-> 📌 **Exemple utile:**
+> > „Înmulțirea este o **adunare repetată**.”
+> >
+> > ✍️ `3 × 5 = 5 + 5 + 5 = 15`
+> >
+> > ✍️ `5 × 3 = 3 + 3 + 3 + 3 + 3 = 15`
 >
-> - (2 × 5) × 10 = 2 × (5 × 10) = 2 × 50 = 100
-> - (4 × 25) × 2 = 100 × 2 = 200
-> - (3 × 2) × 50 = 3 × (2 × 50) = 3 × 100 = 300
->
-> ------
->
-> ✅ **Elementul neutru**:
->
-> > Înmulțirea cu 1 nu schimbă rezultatul:
-> >  `a × 1 = a`
->
-> 📌 **Exemple utile:**
->
-> - 374 × 1 = 374
-> - 1 × 512 = 512
-> - (1 × 9) × 7 = 9 × 7 = 63
->
-> ------
->
-> ✅ **Înmulțirea cu 0**
->
-> > Orice număr înmulțit cu 0 dă 0:
-> >  `a × 0 = 0`
->
-> 📌 **Exemple utile:**
->
-> - 0 × 456 = 0
-> - 73 × 0 = 0
-> - 100 × 0 × 5 = 0
->
-> ### 
->
-> ------
->
-> ### 🔹 3. Înmulțirea pe axa numerelor (vizual)
->
-> > Exemplu: 2 × 3
-> >  → Începem de la 0 și sărim **de 3 unități**, **de 2 ori**:
-> >  0 → 3 → 6
-> >  Deci 2 × 3 = 6
->
-> ------
->
-> ### 🔹 4. Algoritmul de înmulțire (pe coloane)
->
-> Este o metodă de a înmulți două numere **pas cu pas**, începând de la cifra unităților din al doilea număr (cel de jos) și lucrând de la dreapta la stânga.
->
-> Exemplu:
+> 📘 **Termenii înmulțirii**:
 >
 > ```
-> 24 x
-> 3
-> -----
-> 72
+> factor1 × factor2 = produs
 > ```
 >
-> **Explicație:**
+> ✍️ `4 × 6 = 24` → 4 și 6 sunt **factori**, 24 este **produsul**
 >
-> - Înmulțim cifra de jos (3) cu fiecare cifră din numărul de sus (24), de la dreapta la stânga.
-> - 3 × 4 = 12 → scriem 2 și „transportăm” 1
-> - 3 × 2 = 6, plus 1 „transportat” = 7
-> - Răspunsul este **72**
+> 🎙️
+>
+> > „Folosim semnul × sau punctul (⋅) pentru înmulțire.
+> >  Exemple: `5 × 3`, `2 ⋅ 7`, `a × b`”
+>
+> ------
+>
+> ## 🔹 2. Înmulțirea pe axa numerelor
+>
+> 🎙️
+>
+> > „Hai să vedem cum arată înmulțirea pe axă.”
+> >
+> > ✍️ `3 × 2`
+> >  „Facem 3 sărituri de câte 2 unități, începând de la 0.”
+>
+> ✍️ *(Desenează o axă: 0 → 2 → 4 → 6)*
+>
+> 🎙️
+>
+> > „Ajungem la 6. Deci 3 × 2 = 6.
+> >  E ca și cum ai merge **cu pași egali**.”
+>
+> ------
+>
+> ## 🔹 3. Proprietățile înmulțirii
+>
+> 🎙️
+>
+> > „Înmulțirea are câteva reguli magice, care ne ajută să calculăm mai ușor.”
+>
+> ------
+>
+> ### ✅ Comutativitatea
+>
+> > ✍️ `3 × 5 = 15`, `5 × 3 = 15`
+> >  🎙️ „Putem schimba ordinea și rezultatul rămâne același.”
+>
+> ------
+>
+> ### ✅ Asociativitatea
+>
+> > ✍️ `(2 × 3) × 4 = 2 × (3 × 4) = 24`
+> >  🎙️ „Putem grupa factorii cum ne convine.”
+>
+> ------
+>
+> ### ✅ Elementul neutru
+>
+> > ✍️ `7 × 1 = 7`
+> >  🎙️ „Înmulțirea cu 1 nu schimbă nimic.”
+>
+> ------
+>
+> ### ✅ Elementul absorbant
+>
+> > ✍️ `6 × 0 = 0`
+> >  🎙️ „Dacă unul dintre factori e 0, totul devine 0.”
+>
+> ------
+>
+> ### ✅ Distributivitatea
+>
+> > ✍️ `3 × (4 + 5) = 3 × 4 + 3 × 5 = 12 + 15 = 27`
+> >  🎙️ „Putem **înmulți separat** și apoi adunăm.”
+>
+> ------
+>
+> ## 🔹 4. Strategii de calcul mental
+>
+> 🎙️
+>
+> > „Putem face înmulțiri rapid dacă știm câteva trucuri.”
+>
+> ### 💡 Descompunerea factorului
+>
+> > ✍️ `6 × 17 = 6 × (10 + 7) = 60 + 42 = 102`
+>
+> ------
+>
+> ### 💡 Înzecire / însutire
+>
+> > ✍️ `9 × 100 = 900`, `23 × 10 = 230`
+> >  🎙️ „Când înmulțim cu 10, adăugăm un zero.”
+>
+> ------
+>
+> ## 🔹 5. Exerciții ghidate – Hai să exersăm!
+>
+> ✍️
+>
+> ```
+> 1. Completează:
+>    a) 7 × ___ = 35
+>    b) ___ × 4 = 40
+>    c) 6 × 1 = ___
+>    d) 0 × 99 = ___
+> 
+> 2. Alege proprietatea folosită:
+>    a) 4 × 9 = 9 × 4 → ____________
+>    b) 7 × 0 = 0 → ____________
+>    c) (2 × 3) × 5 = 2 × (3 × 5) → ____________
+> 
+> 3. Reprezintă pe axă:
+>    a) 3 × 4
+>    b) 2 × 5
+> ```
+>
+> ------
+>
+> ## 🔹 6. Probleme aplicative – Viața reală înseamnă înmulțire!
+>
+> ✍️
+>
+> ```
+> 1. Într-un depozit sunt 8 rafturi. Fiecare raft are 125 de cutii. Câte cutii sunt în total?
+> 
+> 2. O fabrică produce 350 de sticle pe zi. Câte sticle produce în 6 zile?
+> 
+> 3. Într-un bloc sunt 5 scări. Fiecare scară are 4 etaje, iar fiecare etaj are 3 apartamente. Câte apartamente sunt în total?
+> ```
+>
+> ------
+>
+> ## 🔁 Recapitulare
+>
+> ✍️
+>
+> ```
+> – Înmulțirea = adunare repetată  
+> – factor × factor = produs  
+> – Pe axa numerelor: sărituri egale spre dreapta  
+> – Proprietăți:
+>    • comutativă: a × b = b × a  
+>    • asociativă: (a × b) × c = a × (b × c)  
+>    • element neutru: a × 1 = a  
+>    • element absorbant: a × 0 = 0  
+>    • distributivitate: a × (b + c) = a × b + a × c  
+> – Calcul rapid: descompunere, înzecire, grupare
+> ```
+>
+> 🎙️
+>
+> > „Înmulțirea e ca o superputere: în loc să numeri pe rând, sari direct la rezultat!”
 >
 > 
->
-> Exemplu mai complex:
->
-> **Explicație pas cu pas:**
->
-> 1. Înmulțim 235 cu **2**:
->    - 2 × 5 = 10 → scriem 0, „transportăm” 1
->    - 2 × 3 = 6 + 1 = 7
->    - 2 × 2 = 4 → obținem **470**
-> 2. Înmulțim 235 cu **1**, dar fiind pe poziția zecilor, scriem rezultatul cu **un 0 la final**:
->    - 1 × 235 = 235 → scriem **2350**
-> 3. Adunăm cele două rezultate:
->
-> ```
->    235
-> ×   12
-> -------
->    470   ← 235 × 2
->  +2350   ← 235 × 10 (scris cu un zero la final)
-> -------
->   2820
-> ```
->
-> ------
->
-> ### Sfaturi pentru elevi:
->
-> - Scrie cifrele **aliniate corect** pe coloane (unități sub unități, zeci sub zeci etc.)
-> - **Transportă** cifrele când depășești 9 (exact ca la adunare)
-> - La a doua linie (zecile), adaugă **un 0 la final**; la a treia linie (sutele), **două zerouri** și așa mai departe
-> - **Adună** toate rezultatele parțiale
-
-> ### 🔹 5. Exerciții simple
->
-> ✅ Fără trecere peste ordin:
->
-> - 12 × 3 =
-> - 21 × 4 =
-> - 35 × 2 =
->
-> ✅ Cu trecere peste ordin:
->
-> - 38 × 6 =
-> - 57 × 7 =
-> - 46 × 9 =
->
-> ✅ Cu două cifre la ambii factori:
->
-> - 12 × 14 =
-> - 23 × 15 =
-> - 42 × 21 =
->
-> ✅ Cu trei cifre:
->
-> - 124 × 12 =
-> - 205 × 13 =
->
-> ------
->
-> ### 🔹 6. Probleme logice
->
-> 📘 **Exemplul 1:**
->  Un elev are 7 cutii. În fiecare cutie sunt 36 de bomboane.
->  👉 Câte bomboane are în total?
->
-> > Rezolvare: 7 × 36 = 252
->
-> 📘 **Exemplul 2:**
->  Un autobuz are 45 de scaune. Dacă 18 autobuze pleacă în excursie, câte scaune sunt în total?
->
-> > 45 × 18 = ?
->
-> 📘 **Exemplul 3:**
->  Andrei adună 1+2+3+...+10. Maria înmulțește 5 × 11.
->  Cine obține un rezultat mai mare?
->
-> ------
->
-> ### 🔹 7. Descompunere în baza 10 (truc de calcul)
->
-> Exemplu:
->
-> ```
-> 23 × 4 = ?
-> 
-> Descompunem:
-> 23 = 20 + 3
-> 
-> → 23 × 4 = (20 × 4) + (3 × 4) = 80 + 12 = 92
-> ```
->
-> ### 8. Superputeri ale înmulțirii: dublu, triplu, înzecit, pătrat și cub
->
-> În viața de zi cu zi, uneori folosim cuvinte precum **dublu** sau **triplu** în loc să spunem direct „ori 2” sau „ori 3”. Acestea sunt **moduri rapide și inteligente** de a folosi înmulțirea.
->
-> 🔸 **Dublu** înseamnă „de două ori mai mult” → adică înmulțim cu 2
->
-> > Ex: Dublul lui 6 este **6 × 2 = 12**
->
-> 🔸 **Triplu** înseamnă „de trei ori mai mult” → înmulțim cu 3
->
-> > Ex: Triplu lui 4 este **4 × 3 = 12**
->
-> 🔸 **Înzecit** înseamnă că înmulțim cu 10
->
-> > Ex: Înzecitul lui 7 este **7 × 10 = 70**
->
-> 🔸 **Pătrat al unui număr** înseamnă că îl înmulțim cu el însuși
->
-> > Ex: Pătratul lui 5 este **5 × 5 = 25**
->
-> 🔸 **Cubul unui număr** înseamnă că îl înmulțim de trei ori cu el însuși
->
-> > Ex: Cubul lui 2 este **2 × 2 × 2 = 8**
->
-> 💡 Aceste expresii ne ajută să calculăm mai repede și să înțelegem mai bine cum funcționează înmulțirea în gândire și în practică.
->
-> 
->
-> ###  9. Recapitulare orală
->
-> - Ce înseamnă înmulțirea?
-> - Care este produsul?
-> - Ce se întâmplă dacă schimbăm ordinea factorilor?
-> - Cu ce ne ajută descompunerea?
-> - Cum putem înmulți rapid 25 × 4?
