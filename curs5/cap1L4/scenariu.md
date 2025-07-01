@@ -14,9 +14,9 @@
 
 🎙️
 
-> „Când mama te întreabă cât costă un produs și tu răspunzi *‘cam 10 lei’*, tocmai ai făcut o **estimare**.
->  Iar când spui că 4 368 este *aproximativ 4 000*, ai făcut o **aproximare**.
->  Azi învățăm cum să folosim ambele concepte și de ce sunt utile!”
+> Când mama te întreabă cât costă un produs și tu răspunzi *‘cam 10 lei’*, tocmai ai făcut o **estimare**.
+> Iar când spui că 4 368 este *aproximativ 4 000*, ai făcut o **aproximare**.
+> Azi învățăm cum să folosim ambele concepte și de ce sunt utile!”
 
 ------
 
