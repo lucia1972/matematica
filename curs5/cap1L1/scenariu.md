@@ -192,6 +192,29 @@ Numere naturale – sistemul zecimal
 
 ------
 
+## 🔹 8. Reguli de ținut minte!
+
+1. 🔢 **Un număr natural e format din cifre** – adică acele 10 simboluri pe care le știi deja: 0, 1, 2, 3, ..., 9.
+
+2. 🔁 **Poți folosi aceleași cifre de câte ori ai nevoie.**
+    De exemplu, în numărul 777 apare de trei ori aceeași cifră – și e perfect în regulă!
+
+3. 🚫 **Singurul număr care poate începe cu 0 este… 0.**
+    Dacă un număr are două sau mai multe cifre, **nu trebuie** să înceapă cu 0.
+    Scriem 23, nu 023.
+
+4. 📍 **Locul în care apare o cifră contează!**
+    Cifra din dreapta este întotdeauna **cifra unităților**.
+    Pe măsură ce mergem spre stânga, fiecare cifră are o valoare mai mare – pentru că se află într-un **ordin** și într-o **clasă** diferită.
+
+5. 📦 **Ca să citim mai ușor numerele mari, le grupăm în clase.**
+    Scriem cifrele în grupuri de câte trei, de la dreapta spre stânga.
+    Uneori, prima clasă poate avea doar una sau două cifre – și e perfect așa.
+
+6. 👀 **Citim numerele de la stânga la dreapta.**
+    Pentru fiecare clasă, ne uităm la cifrele nenule și spunem ordinul fiecăreia, apoi adăugăm numele clasei:
+    „Două sute treizeci și patru de mii”, „șapte sute optzeci și cinci de milioane” și tot așa.
+
 ## 🔁 Recapitulare
 
 ✍️
