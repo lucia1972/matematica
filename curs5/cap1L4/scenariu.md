@@ -37,6 +37,21 @@
 🎙️
 
 > „Aproximarea păstrează ideea generală a numărului, dar renunță la detalii.”
+>
+> Aproximarea se poate face prin "adaos" sau prin "lipsa". Indiferent de modul în care ne propunem să facem aproximarea, procedura este foarte simplă:
+>
+>  1. Mai întâi, identificăm cifra corespunzătoare ordinului pe care vrem să o păstrăm (a zecilor, a sutelor ...)
+>
+>  2. a. Dacă vrem să aproximăm prin lipsă atunci înlocuim cu zero toate cifrele de după ea
+>
+>     b. Dacă vrem să aproximăm prin adaos, adăugăm 1 la acea cifră si apoi completăm cu zero toate cifrele după ea
+
+✍️ *(scrii pe tabletă)*
+
+```go
+4368 ≈ 4300 (prin lipsă la ordinul sutelor) 4400 (prin adaos la ordinul sutelor)  
+9593 ≈ 9500 (prin lipsă la ordinul zecilor) 9600 (prin adaos la ordinul zecilor)
+```
 
 ------
 
