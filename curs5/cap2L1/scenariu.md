@@ -4,10 +4,14 @@
 
 🎯 **Ce ne propunem azi?**
 
-– Să înțelegem ce înseamnă adunarea a două numere naturale.
+ – Să înțelegem ce înseamnă adunarea a două numere naturale.
+
  – Să învățăm cum folosim axa numerelor pentru a efectua adunări simple.
+
  – Să descoperim trei proprietăți esențiale ale adunării: **comutativitatea**, **asociativitatea** și **elementul neutru**.
+
  – Să folosim aceste proprietăți pentru a calcula mai repede și mai ușor.
+
  – Să rezolvăm probleme practice cu ajutorul adunării.
 
 ------
@@ -150,13 +154,22 @@
 
 ```
 1. Într-o excursie, într-o zi s-au parcurs 128 km, iar în ziua următoare 145 km.
+
    a) Câți kilometri s-au parcurs în total?
 
+   b) In care dintre zile s-a parcurs mai mult?
+
 2. O bibliotecă are 756 cărți în limba română și 389 în limba engleză.
+
    a) Câte cărți sunt în total?
 
-3. Ana a economisit 58 de lei, iar fratele ei – 142.
+   b) Daca se mai cumpara inca 83 de dictionare, cate carti vor fi in total?
+
+3. Ana a economisit 58 de lei, iar fratele ei are 142.
+
    a) Ce sumă au împreună?
+
+   b) Pe cine ai ruga să-ți împrumute bani? De ce? 
 ```
 
 ------
@@ -166,13 +179,20 @@
 ✍️
 
 ```
-– Adunarea înseamnă „punerea împreună” a două cantități.  
-– Pe axa numerelor, ne deplasăm spre dreapta.  
+– Adunarea înseamnă „punerea împreună” a două cantități.
+
+– Pe axa numerelor, ne deplasăm spre dreapta.
+
 – Proprietățile adunării:
+
    ➕ comutativitate: A + B = B + A  
+
    🔁 asociativitate: (A + B) + C = A + (B + C)  
+
    0️⃣ elementul neutru: A + 0 = A  
+
 – Putem calcula mai rapid dacă știm cum să grupăm termenii.
+
 ```
 
 🎙️
