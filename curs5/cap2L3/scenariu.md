@@ -3,10 +3,15 @@
 > 🎯 **Ce ne propunem azi?**
 >
 > – Să înțelegem ce este înmulțirea și cum o putem interpreta ca adunare repetată.
+
 >  – Să cunoaștem termenii: **factor**, **produs**.
+
 >  – Să reprezentăm înmulțirea pe **axa numerelor**.
+
 >  – Să descoperim **proprietățile** înmulțirii: comutativă, asociativă, element neutru, element absorbant, distributivitate.
+
 >  – Să învățăm **strategii inteligente de calcul mental**.
+
 >  – Să aplicăm înmulțirea în situații reale, prin probleme.
 >
 > ------
@@ -102,6 +107,11 @@
 >
 > > ✍️ `6 × 0 = 0`
 > >  🎙️ „Dacă unul dintre factori e 0, totul devine 0.”
+> 
+> >  "Zero este element absorbant în înmulțire — adică anulează orice număr din care face parte."
+> 
+> >  "Zero acționează ca un burete care absoarbe toată valoarea: orice × 0 = 0."
+
 >
 > ------
 >
