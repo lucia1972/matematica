@@ -2,11 +2,16 @@
 
 🎯 **Ce ne propunem azi?**
 
-– Să înțelegem ce înseamnă o împărțire în care **nu iese exact**.
+ – Să înțelegem ce înseamnă o împărțire în care **nu iese exact**.
+
  – Să cunoaștem termenii: **deîmpărțit**, **împărțitor**, **cât**, **rest nenul**.
+
  – Să scriem împărțirea în forma generală: `a = b × c + r`.
+
  – Să verificăm dacă o împărțire cu rest este corectă.
+
  – Să aplicăm în probleme din viața reală (ambalare, grupare, distribuire).
+
  – Să recunoaștem condiția: **restul este întotdeauna mai mic decât împărțitorul**.
 
 ------
@@ -49,8 +54,11 @@
 ```
 
 - **25** → deîmpărțit
+
 - **4** → împărțitor
+
 - **6** → cât
+
 - **1** → rest
 
 ------
@@ -84,7 +92,9 @@ Exemplu:
 🎙️
 
 > 1. Caută cel mai mare **cât** astfel încât produsul să nu depășească deîmpărțitul
+
 > 2. Scade și obține **restul**
+
 > 3. Verifică:
 >     `cât × împărțitor + rest = deîmpărțit`
 
@@ -94,8 +104,11 @@ Exemplu:
 
 ```
 37 : 5  
+
 → 5 × 7 = 35  
+
 → 37 − 35 = 2  
+
 → Răspuns: 37 : 5 = 7 rest 2
 ```
 
@@ -106,12 +119,14 @@ Exemplu:
 🎙️
 
 > „Dacă restul este 0 → împărțire exactă
+
 >  Dacă restul este diferit de 0 → împărțire cu rest”
 
 ✍️
 
 ```
 36 : 6 = 6 (fără rest)  
+
 37 : 6 = 6 rest 1 (cu rest)
 ```
 
@@ -123,17 +138,24 @@ Exemplu:
 
 ```
 1. Calculează și scrie complet:
+
    a) 18 : 5 = ___ rest ___
+
    b) 41 : 6 = ___ rest ___
+
    c) 54 : 9 = ___ rest ___
 
 2. Completează:
    a) 7 × ___ + ___ = 50  
+
    b) 9 × ___ + ___ = 83
 
 3. Care împărțiri sunt corecte?
+
    a) 37 = 6 × 6 + 1  
+
    b) 49 = 8 × 6 + 1  
+
    c) 51 = 7 × 7 + 2
 ```
 
@@ -146,14 +168,17 @@ Exemplu:
 ```
 1. O fermă are 125 ouă. Acestea se împachetează în cutii de câte 12.  
    – Câte cutii se umplu complet?  
+
    – Câte ouă rămân neambalate?
 
 2. O tipografie are 670 de coli și face pachete de câte 50 de coli.  
    – Câte pachete se pot face?  
+
    – Câte coli rămân?
 
 3. Un autobuz poate transporta 28 de elevi. Sunt 145 de elevi în total.  
    – Câte autobuze trebuie să plece complet pline?  
+
    – Câți elevi rămân pentru următorul tur?
 ```
 
@@ -165,9 +190,13 @@ Exemplu:
 
 ```
 – Împărțirea cu rest apare când nu putem împărți exact.  
+
 – Se scrie: a : b = c rest r  
+
 – Verificarea: a = b × c + r  
+
 – Restul trebuie să fie mai mic decât împărțitorul.  
+
 – Este foarte utilă în situații reale: grupare, ambalare, distribuire.
 ```
 
