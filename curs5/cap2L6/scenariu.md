@@ -3,10 +3,15 @@
 🎯 **Ce ne propunem azi?**
 
 – Să înțelegem ce înseamnă împărțirea și cum o folosim pentru a grupa în mod egal.
+
  – Să cunoaștem termenii: **deîmpărțit**, **împărțitor**, **cât**, **rest**.
+
  – Să realizăm împărțiri în care restul este zero (fără rămășiță).
+
  – Să facem legătura între **împărțire și înmulțire**, prin verificare.
+
  – Să știm când **împărțirea este interzisă** (cazul împărțirii la 0).
+
  – Să aplicăm împărțirea în situații reale, prin exerciții și probleme.
 
 ------
@@ -39,6 +44,7 @@
 
 ```
 deîmpărțit : împărțitor = cât
+
 deîmpărțit = cât x împărțitor
 ```
 
@@ -51,8 +57,11 @@ Exemplu:
 📘 **Termeni**:
 
 - **36** → deîmpărțitul
+
 - **6** → împărțitorul
+
 - **6** → câtul
+
 - **0** → restul (dacă nu rămâne nimic)
 
 ------
@@ -82,10 +91,14 @@ Exemplu:
 ✍️ Exemplu: `20 : 4`
 
 ```
-20 − 4 = 16  
+20 − 4 = 16
+
 16 − 4 = 12  
+
 12 − 4 = 8  
+
 8 − 4 = 4  
+
 4 − 4 = 0
 
 → am scăzut de 5 ori → 20 : 4 = 5
@@ -103,6 +116,7 @@ Exemplu:
 
 ```
 a : 0 = ❌ (nu există)
+
 0 : a = 0 (dacă a ≠ 0)
 ```
 
@@ -117,16 +131,21 @@ a : 0 = ❌ (nu există)
 ```
 1. Calculează:
    a) 48 : 6 = ___
+
    b) 72 : 8 = ___
+
    c) 100 : 10 = ___
 
 2. Verifică prin înmulțire:
    a) 7 × ___ = 35 → 35 : 7 = ___
+
    b) ___ × 5 = 40 → 40 : 5 = ___
 
 3. Care dintre următoarele împărțiri sunt corecte?
    a) 0 : 4 = ___  
+
    b) 4 : 0 = ___  
+
    c) 9 : 3 = ___
 ```
 
@@ -152,10 +171,15 @@ a : 0 = ❌ (nu există)
 
 ```
 – Împărțirea înseamnă împărțire în grupe egale.  
+
 – Se scrie: deîmpărțit : împărțitor = cât  
-– Când restul este 0, înseamnă că împărțirea este exactă.  
+
+– Când restul este 0, înseamnă că împărțirea este exactă. 
+
 – Putem verifica prin înmulțire: cât × împărțitor = deîmpărțit  
+
 – Nu putem împărți niciun număr la 0.  
+
 – Putem interpreta împărțirea ca scădere repetată.
 ```
 
