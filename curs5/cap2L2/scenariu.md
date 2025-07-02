@@ -3,10 +3,15 @@
 > 🎯 **Ce ne propunem azi?**
 >
 > – Să înțelegem ce înseamnă scăderea: cum calculăm „cât a mai rămas” după ce luăm o parte.
+
 >  – Să cunoaștem termenii unei scăderi: **descăzut**, **scăzător**, **diferență**.
+
 >  – Să învățăm cum realizăm scăderea pe **axa numerelor**.
+
 >  – Să vedem cum se leagă scăderea de adunare și cum putem **verifica rezultatul**.
+
 >  – Să descoperim **strategii rapide de calcul mental**.
+
 >  – Să rezolvăm probleme practice în care scăderea ne ajută în viața de zi cu zi.
 >
 > ------
@@ -50,7 +55,7 @@
 >
 > 🎙️
 >
-> > „Pe axă, scăderea înseamnă să **mergem spre stânga**.”
+> > „Pe axă, scăderea înseamnă să **mergem spre stânga** pentru că trebuie să ajungem la un număr mai mic.”
 > >
 > > ✍️ `8 − 3`
 > >  „Începem de la 8 și facem 3 pași spre stânga. Ajungem la 5.”
