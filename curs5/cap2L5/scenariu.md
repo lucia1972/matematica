@@ -3,9 +3,13 @@
 > 🎯 **Ce ne propunem azi?**
 >
 > – Să învățăm o metodă vizuală și logică de înmulțire: **metoda tabelară (grilă)**.
+
 > – Să înțelegem cum descompunem numerele în zeci, sute etc.
+
 >  – Să completăm un tabel de înmulțire cu produse parțiale.
+
 > – Să adunăm produsele pentru a obține rezultatul final.
+
 >  – Să folosim această metodă pentru a înțelege mai bine **algoritmul clasic**.
 >  
 >  ------
@@ -154,10 +158,14 @@
 > ✍️
 >
 > ```
->– Metoda tabelară este o înmulțire organizată într-un tabel.  
-> – Se bazează pe descompunerea numerelor și proprietatea distributivă.  
+>– Metoda tabelară este o înmulțire organizată într-un tabel.
+
+> – Se bazează pe descompunerea numerelor și proprietatea distributivă. 
+
 >– Ne ajută să vizualizăm clar produsele parțiale.  
+
 > – Este excelentă pentru învățarea și înțelegerea metodei scrise.  
+
 >– Ne oferă încredere în calcule și o metodă alternativă de verificare.
 > ```
 > 

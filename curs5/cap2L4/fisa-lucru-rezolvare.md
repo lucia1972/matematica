@@ -116,54 +116,7 @@ Rezolvă cu înmulțirea scrisă:
 
 ---
 
-## ✅ 8. Bonus – Metoda tabelară
-
-Completează tabelul și adună rezultatele pentru fiecare înmulțire.
-
-📘 *Descompune ambii factori în zeci/sute și unități, înmulțește fiecare cu fiecare, apoi adună toate produsele.*
-
-### **1. 34 × 52**
-
-|        | 50   | 2  |
-| ------ | ---- | -- |
-| **30** | 1500 | 60 |
-| **4**  | 200  | 8  |
-
-→ Total: 1768
-
-### **2. 125 × 43**
-
-|         | 40   | 3   |
-| ------- | ---- | --- |
-| **100** | 4000 | 300 |
-| **20**  | 800  | 60  |
-| **5**   | 200  | 15  |
-
-→ Total: 5375
-
-### **3. 246 × 18**
-
-|         | 10   | 8    |
-| ------- | ---- | ---- |
-| **200** | 2000 | 1600 |
-| **40**  | 400  | 320  |
-| **6**   | 60   | 48   |
-
-→ Total: 4428
-
-### **4. 314 × 25**
-
-|         | 20   | 5    |
-| ------- | ---- | ---- |
-| **300** | 6000 | 1500 |
-| **10**  | 200  | 50   |
-| **4**   | 80   | 20   |
-
-→ Total: 7850
-
----
-
-## ✅ 9. Bifează ce ai înțeles azi:
+## ✅ 8. Bifează ce ai înțeles azi:
 
 ✅ \[x] Pot folosi tabla înmulțirii
 
