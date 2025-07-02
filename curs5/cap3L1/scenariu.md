@@ -1,7 +1,3 @@
-Super! Iată lecția secvențiată, exact în stilul pe care l-am stabilit:
-
-------
-
 # 📘 Lecția 1: Puterea cu exponent natural a unui număr natural
 
 🎯 **Obiectivele lecției:**
