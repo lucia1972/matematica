@@ -3,10 +3,15 @@
 > 🎯 **Ce ne propunem azi?**
 >
 > – Să recapitulăm tabla înmulțirii pentru numere de o cifră.
+
 >– Să învățăm cum folosim înmulțirea scrisă (verticală) pentru numere mari.
+
 > – Să rezolvăm înmulțiri cu 1, 2 sau mai multe cifre la fiecare factor.
+
 >– Să descoperim cum ne ajută **distributivitatea** în calcule rapide.
+
 > – Să aplicăm înmulțirea scrisă în probleme din viața reală.
+
 >  – Să folosim metode sigure de verificare a rezultatelor.
 >  
 >  ------
@@ -172,7 +177,7 @@
 > ```
 >1. Efectuează următoarele înmulțiri:
 >    a) 32 × 6
->   b) 145 × 3
+>    b) 145 × 3
 >    c) 21 × 18
 >    d) 304 × 26
 > 
