@@ -224,5 +224,3 @@
 > 🎙️
 > 
 > > „Înmulțirea scrisă e ca o scurtătură magică: în loc să aduni de zeci de ori, sari direct la răspuns – sigur, clar și rapid!”
->
-> 
