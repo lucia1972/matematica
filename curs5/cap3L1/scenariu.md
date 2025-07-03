@@ -2,8 +2,11 @@
 
 🎯 **Obiectivele lecției:**
  – Să înțelegem ce este o **putere** și cum se scrie în matematică.
+
  – Să învățăm cum se citesc și se calculează **puteri cu exponent natural**.
+
  – Să descoperim ce înseamnă **pătratul** și **cubul** unui număr.
+
  – Să folosim aceste noțiuni în exemple și probleme din viața reală.
 
 ------
@@ -16,7 +19,6 @@
 >  Ei bine, în loc să scriem de patru ori 3 înmulțit cu el însuși, scriem simplu:
 
 3^4
- ]
 
 > Și îi spunem: *3 la puterea a patra*.”
 
@@ -40,7 +42,9 @@ a^n = a · a · a · ... · a (de n ori)
 
 🧠
  – **a** se numește **bază**
+
  – **n** se numește **exponent**
+
  – Împreună formează o **putere**.
 
 Exemplu:
@@ -59,7 +63,9 @@ $2^4 = 2 \cdot 2 \cdot 2 \cdot 2 = 16$
 
 ```
 3^2 – se citește „trei la pătrat”  
+
 5^3 – se citește „cinci la cub”  
+
 10^4 – se citește „zece la puterea a patra”
 ```
 
