@@ -149,10 +149,10 @@ $\left(\frac{1}{3}\right)^3 = \frac{1}{27} \text{ m}^3$
 ✍️ *(Fraza de încheiere)*
 
 ```
-O fracție ridicată la putere rămâne tot o fracție… doar că mai puternică!
+O fracție ridicată la putere rămâne tot o fracție!
 ```
 
 🎙️
 
-> „Puterea dă fracției energie: o transformă, o repetă, o înalță la un nou nivel!”
+> „Ridicarea la putere este o formă de înmulțire repetată – simplă, logică și utilă.”
 
