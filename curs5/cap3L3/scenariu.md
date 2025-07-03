@@ -2,9 +2,12 @@
 
 🎯 **Ce ne propunem azi?**
 
-– Să învățăm **cum comparăm două puteri**: care este mai mare, care este mai mică.
+ – Să învățăm **cum comparăm două puteri**: care este mai mare, care este mai mică.
+
  – Să știm ce să facem când **bazele sunt egale** sau **exponenții sunt egali**.
+
  – Să descoperim **metode practice de estimare** atunci când și baza, și exponentul sunt diferite.
+
  – Să devenim siguri pe semnele de comparație: **<**, **=**, **>** între două puteri.
 
 ------
@@ -41,7 +44,13 @@ $\text{Dacă } a > 1 \text{ și } m < n,\ \text{atunci } a^m < a^n$
 
 ✅ **Exemple:**
 
-$2^3 = 8,\quad 2^5 = 32\quad \Rightarrow\ 2^3 < 2^5  $$7^2 = 49,\quad 7^4 = 2401\quad \Rightarrow\ 7^2 < 7^4  $
+$2^3 = 8$,
+
+$2^5 = 32\Rightarrow\ 2^3 < 2^5  $
+
+$7^2 = 49$,
+
+$7^4 = 2401\Rightarrow\ 7^2 < 7^4  $
 
 🧠 **Concluzie:**
 
@@ -57,7 +66,9 @@ $\text{Dacă } a < b \text{ și } n \text{ fix},\ \text{atunci } a^n < b^n$
 
 ✅ **Exemple:**
 
-$3^4 = 81,\quad 5^4 = 625\quad \Rightarrow\ 3^4 < 5^4  $$6^2 = 36,\quad 9^2 = 81\quad \Rightarrow\ 6^2 < 9^2  $
+$3^4 = 81, 5^4 = 625 \Rightarrow\ 3^4 < 5^4  $
+
+$6^2 = 36, 9^2 = 81 \Rightarrow\ 6^2 < 9^2  $
 
 🧠 **Concluzie:**
 
@@ -77,7 +88,9 @@ $4^6\ \text{vs.}\ 2^8$
 
 📝 Observăm că:
 
-$4 = 2^2 \Rightarrow 4^6 = (2^2)^6 = 2^{12}$$2^8 = 2^8 \Rightarrow 2^{12} > 2^8 \Rightarrow 4^6 > 2^8$
+$4 = 2^2 \Rightarrow 4^6 = (2^2)^6 = 2^{12}$
+
+$2^8 = 2^8 \Rightarrow 2^{12} > 2^8 \Rightarrow 4^6 > 2^8$
 
 ------
 
@@ -111,12 +124,17 @@ $5^4 = 625,\quad 3^6 = 729 \Rightarrow 3^6 > 5^4$
 
 **Comparați fără a calcula totul:**
 
-1. $2^5 \ \_ \ 2^7$
-2. $4^3 \ \_ \ 9^3$
-3. $10^3 \ \_ \ 5^5$
-4. $2^8 \ \_ \ 4^4$
-5. $3^4 \ \_ \ 4^3$
-6. $6^3 \ \_ \ 2^6$
+1. $2^5$ _____ $2^7$
+
+2. $4^3$ _____ $9^3$
+
+3. $10^3$ _____ $5^5$
+
+4. $2^8$ _____ $4^4$
+
+5. $3^4$ _____ $4^3$
+
+6. $6^3$ _____ $2^6$
 
 **Scrieți >, < sau = în locul spațiului liber și explicați în câteva cuvinte.**
 
