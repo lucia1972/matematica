@@ -5,8 +5,11 @@
 🎯 **Ce ne propunem azi?**
 
 – Să înțelegem ce este un **pătrat perfect** și cum îl recunoaștem.
+
  – Să exersăm calculul pătratelor perfecte pentru numere până la 20.
+
  – Să folosim metode sigure și fără radicali pentru a verifica dacă un număr este pătrat perfect.
+
  – Să aplicăm aceste idei în probleme practice și de logică.
 
 ------
@@ -112,7 +115,7 @@ Fără să folosim radicali, avem mai multe metode simple:
 
 Știm că:
 
-$7^2 = 49,\quad 8^2 = 64 \Rightarrow 50 este între ele, deci NU este pătrat perfect$
+$7^2 = 49,\quad 8^2 = 64 \Rightarrow 50$ este între ele, deci NU este pătrat perfect
 
 ------
 
@@ -154,7 +157,7 @@ Se termină în **2** → Nu, sigur nu este.
 ✍️
  Căutăm un număr care la pătrat să dea 225:
 
-$15 × 15 = 225 → latura este 15 m$
+$15 × 15 = 225$ → latura este 15 m
 
 📘 Exemplu 2:
 
