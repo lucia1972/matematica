@@ -111,7 +111,9 @@
 > #### **Exercițiu 11: Un număr binar este folosit pentru a reprezenta numărul de unități într-o latură de pătrat. Dacă latura este reprezentată de 1001 (binar), ce număr reprezintă în baza 10 și care este aria pătratului?**
 >
 > **Răspuns:**
->  1001 în baza 2 este **9** în baza 10. Aria pătratului este $9^2 = 81$.
+>  1001 în baza 2 este **9** în baza 10. 
+>
+> Aria pătratului este $9^2 = 81$.
 >
 > ------
 >
