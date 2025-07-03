@@ -1,4 +1,4 @@
-> # **Fișă de lucru: Pătrate perfecte**
+> # **Fișă de lucru: Pătrate perfecte** - rezolvare
 >
 > ------
 >
