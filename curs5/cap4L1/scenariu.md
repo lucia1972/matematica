@@ -4,7 +4,7 @@
 
 🎯 **Ce vom învăța în această lecție?**
 
-– Să înțelegem **ce înseamnă să reducem o problemă la o unitate**.
+ – Să înțelegem **ce înseamnă să reducem o problemă la o unitate**.
  – Să aplicăm această metodă în probleme simple și complexe cu **proporționalitate directă**.
  – Să recunoaștem situațiile în care apare **proporționalitate inversă** și cum o tratăm.
  – Să rezolvăm probleme cu mai multe etape, **pas cu pas**, clar și logic.
