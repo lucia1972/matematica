@@ -7,3 +7,7 @@
  – Să folosim **diferențele între mărimi** pentru a descoperi necunoscute.
  – Să exersăm cu probleme în care una dintre mărimi este **mai mare sau mai mică** decât cealaltă.
  – Să dezvoltăm gândirea logică prin **construirea și compararea relațiilor numerice**.
+ – Să înțelegem ce este **metoda figurativă** și cum ne ajută să rezolvăm probleme.
+ – Să folosim **desene simple (segmente)** pentru a reprezenta relațiile dintre mărimi.
+ – Să aplicăm metoda la probleme de tip: sumă și diferență, sumă și cât, diferență și cât, relații de multipli.
+ – Să dezvoltăm gândirea logică **vizual**, înainte de calcule.
