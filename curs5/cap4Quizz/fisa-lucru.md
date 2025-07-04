@@ -11,3 +11,7 @@
  – Să folosim **desene simple (segmente)** pentru a reprezenta relațiile dintre mărimi.
  – Să aplicăm metoda la probleme de tip: sumă și diferență, sumă și cât, diferență și cât, relații de multipli.
  – Să dezvoltăm gândirea logică **vizual**, înainte de calcule.
+  – Să înțelegem ce este **metoda mersului invers**.
+ – Să învățăm cum **se desface o problemă pas cu pas, în sens invers** față de cum a fost construită.
+ – Să aplicăm metoda la probleme care conțin **mai multe operații** legate între ele.
+ – Să dezvoltăm o gândire clară, logică și riguroasă, urmărind înapoi drumul făcut de numere.

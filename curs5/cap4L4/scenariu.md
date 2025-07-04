@@ -4,9 +4,12 @@
 
 🎯 **Ce vom învăța azi?**
 
-– Să înțelegem ce este **metoda mersului invers**.
+ – Să înțelegem ce este **metoda mersului invers**.
+
  – Să învățăm cum **se desface o problemă pas cu pas, în sens invers** față de cum a fost construită.
+
  – Să aplicăm metoda la probleme care conțin **mai multe operații** legate între ele.
+
  – Să dezvoltăm o gândire clară, logică și riguroasă, urmărind înapoi drumul făcut de numere.
 
 ------
@@ -30,23 +33,31 @@
 ## 🔁 1. Când folosim metoda mersului invers?
 
 ✅ O folosim atunci când:
+
  – **Ni se dă rezultatul final** (suma, numărul de obiecte etc.)
+
  – Se menționează **pașii anteriori**, dar nu și valoarea inițială
+
  – Avem o succesiune de operații (ex: „a dublat, apoi a adunat 6, apoi a împărțit la 3...”)
+
  – Se cere: **„la ce număr s-a gândit?”**, **„câte avea inițial?”**, **„cât a fost la început?”**
 
 ------
 
 ## 🪜 2. Pașii metodei
 
-1️⃣ **Citim problema de la sfârșit spre început**
+ 1️⃣ **Citim problema de la sfârșit spre început**
+
  2️⃣ **Aplicăm operațiile inverse** în ordinea inversă
+
  3️⃣ **Urmărim fiecare pas pe hârtie, clar, unul câte unul**
 
 📘 Operații inverse:
 
 - Adunare ↔ Scădere
+
 - Înmulțire ↔ Împărțire
+
 - Ridicare la putere ↔ Rădăcină pătrată (mai târziu)
 
 ------
@@ -67,6 +78,7 @@ $(x + 8) \cdot 3 = 60$
 📌 Mers invers:
 
 1. $60 : 3 = 20$
+
 2. $20 - 8 = 12$
 
 ✅ **Răspuns: m-am gândit la 12**
@@ -95,6 +107,7 @@ $(x + 8) \cdot 3 = 60$
 📌 Mers invers:
 
 1. $28 + 12 = 40$ → înainte de cheltuit 12 lei
+
 2. $40 = 2/3$ din sumă → suma întreagă = $40 \cdot 3 : 2 = 60$
 
 ✅ Răspuns: Paul avea **60 lei**
@@ -109,7 +122,9 @@ $(x + 8) \cdot 3 = 60$
 📌 Mers invers:
 
 1. $13 \cdot 3 = 39$
+
 2. $39 - 5 = 34$
+
 3. $34 : 4 = 8.5$
 
 📌 Răspunsul nu e natural. Poate greșeală în date sau intenționat – **bun exercițiu de validare logică!**
@@ -119,8 +134,11 @@ $(x + 8) \cdot 3 = 60$
 ## ✍️ 5. Exerciții de antrenament
 
 1. M-am gândit la un număr. I-am adunat 9, apoi l-am împărțit la 4. Am obținut 6. Care era numărul gândit?
+
 2. După ce și-a dublat banii și a cheltuit 20 lei, Mihai a rămas cu 60 lei. Câți bani avea la început?
+
 3. La un concurs, un elev a primit 10 puncte bonus, apoi și-a dublat scorul. A ajuns la 64 puncte. Ce scor avea înainte de bonus?
+
 4. Un copil a mâncat 3 biscuiți, apoi a împărțit restul în două farfurii. Pe fiecare farfurie erau 9 biscuiți. Câți avea inițial?
 
 ------
