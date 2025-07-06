@@ -2,7 +2,7 @@
 
 🎯 **Ce ne propunem azi?**
 
-– Să învățăm ce înseamnă **descompunerea unui număr în factori primi**.
+ – Să învățăm ce înseamnă **descompunerea unui număr în factori primi**.
  – Să folosim metoda împărțirilor succesive pentru a face această descompunere.
  – Să scriem rezultatul folosind **puteri ale numerelor prime**.
  – Să învățăm cum aflăm **câți divizori** are un număr folosind descompunerea sa.

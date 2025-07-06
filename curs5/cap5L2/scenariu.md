@@ -6,7 +6,7 @@ Iată lecția completă **L2: Divizor comun. Multiplu comun**, redactată în st
 
 🎯 **Ce ne propunem azi?**
 
-– Să învățăm ce înseamnă **divizor comun** și **multiplu comun**.
+ – Să învățăm ce înseamnă **divizor comun** și **multiplu comun**.
  – Să identificăm **cel mai mare divizor comun** (c.m.m.d.c.).
  – Să aflăm **cel mai mic multiplu comun** (c.m.m.m.c.).
  – Să aplicăm aceste concepte în probleme din viața reală.

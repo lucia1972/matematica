@@ -2,7 +2,7 @@
 
 🎯 **Ce ne propunem azi?**
 
-– Să învățăm cum verificăm rapid dacă un număr este divizibil cu 2, 5 sau 10.
+ – Să învățăm cum verificăm rapid dacă un număr este divizibil cu 2, 5 sau 10.
  – Să descoperim reguli simple și eficiente pentru 10, 100, 1.000…
  – Să exersăm prin exemple și aplicații din viața reală.
 
