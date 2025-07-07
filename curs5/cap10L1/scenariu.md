@@ -1,8 +1,8 @@
-# 📘 Lecția 1: Probleme de organizare a datelor. Frecvență
+# Lecția 1: Probleme de organizare a datelor. Frecvență
 
 🎯 **Ce ne propunem azi?**
 
-– Să înțelegem ce înseamnă **organizarea datelor** și **frecvența** unei valori.
+ – Să înțelegem ce înseamnă **organizarea datelor** și **frecvența** unei valori.
  – Să învățăm cum construim și cum citim un **tabel de frecvență**.
  – Să exersăm interpretarea datelor organizate în tabele, în contexte reale.
 
