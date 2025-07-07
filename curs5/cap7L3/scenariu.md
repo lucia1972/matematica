@@ -2,7 +2,7 @@
 
 🎯 **Ce ne propunem azi?**
 
-– Să învățăm cum se calculează o **fracție dintr-un număr natural**.
+ – Să învățăm cum se calculează o **fracție dintr-un număr natural**.
  – Să vedem cum aflăm o **fracție dintr-o altă fracție**.
  – Să înțelegem ce sunt **procentele** și cum le folosim în calcule.
  – Să aplicăm toate acestea în probleme reale.

@@ -2,7 +2,7 @@
 
 🎯 **Ce ne propunem azi?**
 
-– Să învățăm cum ridicăm o fracție la o putere naturală.
+ – Să învățăm cum ridicăm o fracție la o putere naturală.
  – Să înțelegem ce înseamnă pătratul și cubul unei fracții.
  – Să exersăm aplicând regula corectă.
  – Să facem legătura cu probleme practice: arii, volume, înmulțiri repetate.

@@ -2,7 +2,7 @@
 
 🎯 **Ce ne propunem azi?**
 
-– Să învățăm cum se împart două fracții ordinare.
+ – Să învățăm cum se împart două fracții ordinare.
  – Să înțelegem de ce împărțirea înseamnă de fapt înmulțire cu inversa.
  – Să folosim această regulă în exerciții și probleme.
  – Să evităm greșelile frecvente care apar în această operație.
