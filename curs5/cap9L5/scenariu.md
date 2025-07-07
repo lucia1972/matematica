@@ -1,8 +1,8 @@
-# 📘 Lecția 5: Împărțirea a două fracții zecimale cu număr finit de zecimale nenule
+# Lecția 5: Împărțirea a două fracții zecimale cu număr finit de zecimale nenule
 
 🎯 **Ce ne propunem azi?**
 
-– Să învățăm cum se împart două numere zecimale.
+ – Să învățăm cum se împart două numere zecimale.
  – Să folosim corect metoda de **transformare în numere naturale** prin deplasarea virgulei.
  – Să aplicăm această tehnică în exerciții, probleme și situații reale.
  – Să evităm greșelile frecvente legate de poziția virgulei și interpretarea rezultatului.

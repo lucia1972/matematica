@@ -1,8 +1,8 @@
-# 📘 Lecția 3: Împărțirea a două numere naturale cu rezultat fracție zecimală. Aplicație: media aritmetică a două sau mai multe fracții
+# Lecția 3: Împărțirea a două numere naturale cu rezultat fracție zecimală. Aplicație: media aritmetică a două sau mai multe fracții
 
 🎯 **Ce ne propunem azi?**
 
-– Să învățăm cum obținem un număr zecimal prin împărțirea a două numere naturale.
+ – Să învățăm cum obținem un număr zecimal prin împărțirea a două numere naturale.
  – Să știm când împărțirea se încheie și când trebuie să adăugăm zecimale.
  – Să folosim această împărțire pentru a calcula media aritmetică.
  – Să lucrăm clar și ordonat, mai ales în calcule scrise.

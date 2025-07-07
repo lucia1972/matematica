@@ -1,8 +1,8 @@
-# 📘 Lecția 1: Adunarea și scăderea fracțiilor zecimale cu număr finit de zecimale nenule
+# Lecția 1: Adunarea și scăderea fracțiilor zecimale cu număr finit de zecimale nenule
 
 🎯 **Ce ne propunem azi?**
 
-– Să învățăm cum adunăm și scădem fracții zecimale.
+ – Să învățăm cum adunăm și scădem fracții zecimale.
  – Să înțelegem de ce este important să aliniem corect virgula.
  – Să rezolvăm exerciții și probleme din viața de zi cu zi folosind aceste operații.
  – Să evităm greșelile cele mai frecvente.
@@ -82,8 +82,7 @@ $10 - 5 = 5 \text{ lei}$
 ## ⚠️ 6. Greșeli frecvente
 
 1. ❌ **Virgula nu e aliniată**
-    
-
+   
 2. ❌ **Exemplu de aliniere greșită:**
    $$
    \begin{aligned}

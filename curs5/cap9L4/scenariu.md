@@ -2,7 +2,7 @@
 
 🎯 **Ce ne propunem azi?**
 
-– Să învățăm cum transformăm o fracție ordinară într-o fracție zecimală.
+ – Să învățăm cum transformăm o fracție ordinară într-o fracție zecimală.
  – Să înțelegem când o fracție zecimală este finită și când este periodică.
  – Să știm cum scriem corect fracțiile zecimale periodice.
  – Să recunoaștem legătura dintre numitorul fracției și forma zecimală.

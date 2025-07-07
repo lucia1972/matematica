@@ -2,7 +2,7 @@
 
 🎯 **Ce ne propunem azi?**
 
-– Să învățăm cum transformăm o fracție zecimală (cu un număr finit de zecimale) într-o fracție ordinară.
+ – Să învățăm cum transformăm o fracție zecimală (cu un număr finit de zecimale) într-o fracție ordinară.
  – Să știm care este numitorul corect în funcție de poziția cifrelor după virgulă.
  – Să simplificăm fracția obținută, dacă este posibil.
  – Să folosim aceste transformări în contexte din viața de zi cu zi.
