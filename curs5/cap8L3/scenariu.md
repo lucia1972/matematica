@@ -2,7 +2,7 @@
 
 🎯 **Ce ne propunem azi?**
 
-– Să învățăm cum să aproximăm un număr zecimal prin lipsă sau adaos.
+ – Să învățăm cum să aproximăm un număr zecimal prin lipsă sau adaos.
  – Să rotunjim corect la zecimi, sutimi sau unități.
  – Să reprezentăm pe axa numerelor fracții zecimale cu un număr finit de zecimale.
  – Să aplicăm aceste idei în viața de zi cu zi.

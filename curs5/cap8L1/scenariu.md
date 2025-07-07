@@ -1,8 +1,8 @@
-# 📘 Lecția 1: Scrierea fracțiilor ordinare cu numitori puteri ale lui 10 sub formă de fracții zecimale. Transformarea fracțiilor zecimale cu număr finit de zecimale nenule în fracții ordinare
+# Lecția 1: Scrierea fracțiilor ordinare cu numitori puteri ale lui 10 sub formă de fracții zecimale. Transformarea fracțiilor zecimale cu număr finit de zecimale nenule în fracții ordinare
 
 🎯 **Ce ne propunem azi?**
 
-– Să recunoaștem fracțiile cu numitori egali cu 10, 100, 1000 etc.
+ – Să recunoaștem fracțiile cu numitori egali cu 10, 100, 1000 etc.
  – Să le transformăm în fracții zecimale.
  – Să învățăm să scriem un număr zecimal cu un număr finit de zecimale ca fracție ordinară.
  – Să înțelegem că vorbim despre aceeași valoare, scrisă diferit.
