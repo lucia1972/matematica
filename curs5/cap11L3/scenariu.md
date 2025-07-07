@@ -1,8 +1,8 @@
-# 📘 Lecția 3: Semidreaptă. Segment de dreaptă. Semiplan
+# Lecția 3: Semidreaptă. Segment de dreaptă. Semiplan
 
 🎯 **Ce ne propunem azi?**
 
-– Să înțelegem ce sunt și cum se construiesc o **semidreaptă**, un **segment de dreaptă** și un **semiplan**.
+ – Să înțelegem ce sunt și cum se construiesc o **semidreaptă**, un **segment de dreaptă** și un **semiplan**.
  – Să folosim **simbolurile și limbajul geometric** corect pentru a descrie aceste figuri.
  – Să realizăm activități de desen care să ne ajute să gândim geometric.
 

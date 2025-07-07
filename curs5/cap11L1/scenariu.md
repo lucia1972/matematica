@@ -1,8 +1,8 @@
-# 📘 Lecția 1: Punct, dreaptă, plan
+#  Lecția 1: Punct, dreaptă, plan
 
 🎯 **Ce ne propunem azi?**
 
-– Să înțelegem ce sunt și cum se reprezintă **punctul**, **dreapta** și **planul**.
+ – Să înțelegem ce sunt și cum se reprezintă **punctul**, **dreapta** și **planul**.
  – Să folosim **limbajul geometric corect** pentru a descrie poziția și relația dintre aceste elemente.
  – Să realizăm **desene geometrice simple**, folosind rigla și intuiția spațială.
 
