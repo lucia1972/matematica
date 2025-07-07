@@ -1,4 +1,4 @@
-# 📘 Lecția 6: Transformarea unei fracții zecimale în fracție ordinară
+# Lecția 6: Transformarea unei fracții zecimale în fracție ordinară
 
 🎯 **Ce ne propunem azi?**
 

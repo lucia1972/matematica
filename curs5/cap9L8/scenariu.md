@@ -1,8 +1,8 @@
-# 📘 Lecția 8: Metode aritmetice pentru rezolvarea problemelor cu fracții și unități de măsură
+# Lecția 8: Metode aritmetice pentru rezolvarea problemelor cu fracții și unități de măsură
 
 🎯 **Ce ne propunem azi?**
 
-– Să înțelegem cum folosim fracțiile în probleme care implică kg, l, m, ore și alte unități de măsură.
+ – Să înțelegem cum folosim fracțiile în probleme care implică kg, l, m, ore și alte unități de măsură.
  – Să aplicăm metode aritmetice simple pentru a afla părți dintr-un întreg sau întregul pornind de la o parte.
  – Să exersăm transformări între unități pentru a putea rezolva probleme în mai mulți pași.
 
