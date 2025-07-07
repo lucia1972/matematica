@@ -296,10 +296,6 @@ Să rezolvăm pas cu pas fiecare exercițiu:
   - $\frac{4}{6}$ (4 + 6 = 10)
   - $\frac{3}{7}$ (3 + 7 = 10)
 
-------
-
-Am finalizat soluțiile!
-
 
 
 ------

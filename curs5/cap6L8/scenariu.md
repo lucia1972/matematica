@@ -2,7 +2,7 @@
 
 🎯 **Ce ne propunem azi?**
 
-– Să înțelegem ce este **cel mai mic multiplu comun** (c.m.m.m.c.) al două numere.
+ – Să înțelegem ce este **cel mai mic multiplu comun** (c.m.m.m.c.) al două numere.
  – Să învățăm cum se calculează: prin listare sau descompunere în factori primi.
  – Să știm cum aducem două fracții la **același numitor** folosind c.m.m.m.c.
  – Să exersăm aceste concepte în calcule și comparații.

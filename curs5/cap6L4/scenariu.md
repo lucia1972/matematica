@@ -2,7 +2,7 @@
 
 🎯 **Ce ne propunem azi?**
 
-– Să învățăm cum reprezentăm o fracție ordinară pe axa numerelor.
+ – Să învățăm cum reprezentăm o fracție ordinară pe axa numerelor.
  – Să distingem între fracții subunitare și supraunitare pe axă.
  – Să ordonăm corect fracțiile crescător sau descrescător.
  – Să folosim axa pentru a compara și înțelege mai bine valorile fracțiilor.
