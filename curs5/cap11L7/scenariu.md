@@ -1,4 +1,4 @@
-# 📘 Lecția 7: Definiție, notații, elemente; interiorul unui unghi, exteriorul unui unghi
+# Lecția 7: Definiție, notații, elemente; interiorul unui unghi, exteriorul unui unghi
 
 ------
 

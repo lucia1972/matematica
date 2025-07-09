@@ -4,7 +4,7 @@
 
 ## 🎯 Obiectivele lecției
 
-– Să învățăm să clasificăm unghiurile în funcție de măsura lor.
+ – Să învățăm să clasificăm unghiurile în funcție de măsura lor.
  – Să recunoaștem vizual diferitele tipuri de unghiuri.
  – Să înțelegem ce înseamnă **unghiuri congruente**.
  – Să exersăm clasificarea și construcția de unghiuri variate.
