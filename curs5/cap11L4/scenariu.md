@@ -2,7 +2,7 @@
 
 🎯 **Ce ne propunem azi?**
 
-– Să recunoaștem **pozițiile relative** pe care le pot avea două drepte într-un plan.
+ – Să recunoaștem **pozițiile relative** pe care le pot avea două drepte într-un plan.
  – Să învățăm să le clasificăm ca **paralele**, **concurente** sau **coincidente**.
  – Să reprezentăm corect aceste cazuri prin desene și exemple.
 
