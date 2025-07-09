@@ -4,7 +4,7 @@
 
 ## 🎯 Obiectivele lecției
 
-– Să înțelegem ce este **volumul** unui corp tridimensional.
+ – Să înțelegem ce este **volumul** unui corp tridimensional.
  – Să cunoaștem principalele **unități de măsură pentru volum** și relațiile dintre ele.
  – Să calculăm volumul **cubului** și al **paralelipipedului dreptunghic**.
  – Să aplicăm aceste formule în situații practice.

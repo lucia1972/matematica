@@ -4,7 +4,7 @@
 
 ## 🎯 Obiectivele lecției
 
-– Să înțelegem ce înseamnă **aria** unei figuri geometrice plane.
+ – Să înțelegem ce înseamnă **aria** unei figuri geometrice plane.
  – Să identificăm și să folosim **unitățile de măsură pentru arie**.
  – Să învățăm să **calculăm aria pătratului** și **aria dreptunghiului**.
  – Să aplicăm formulele în contexte practice și probleme concrete.
