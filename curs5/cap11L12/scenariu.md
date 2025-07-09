@@ -4,7 +4,7 @@
 
 ## 🎯 Obiectivele lecției
 
-– Să înțelegem ce înseamnă **axa de simetrie** a unei figuri.
+ – Să înțelegem ce înseamnă **axa de simetrie** a unei figuri.
  – Să identificăm figuri care admit o axă, două sau mai multe axe de simetrie.
  – Să construim **imaginea simetrică** a unei figuri față de o axă dată.
  – Să explorăm **simetria** în natură, în obiecte, litere și cifre.

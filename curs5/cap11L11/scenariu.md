@@ -1,10 +1,10 @@
-# 📘 Lecția 11: Figuri congruente
+# Lecția 11: Figuri congruente
 
 ------
 
 ## 🎯 Obiectivele lecției
 
-– Să înțelegem ce înseamnă ca două figuri să fie **congruente**.
+ – Să înțelegem ce înseamnă ca două figuri să fie **congruente**.
  – Să identificăm **elementele corespunzătoare** ale figurilor congruente.
  – Să verificăm congruența prin **măsurare**, **suprapunere** sau **translatare**.
  – Să construim figuri congruente folosind rigla și echerul.
