@@ -2,7 +2,7 @@
 
 🎯 **Ce ne propunem azi?**
 
-– Să învățăm ce înseamnă să **amplificăm** sau să **simplificăm** o fracție ordinară.
+ – Să învățăm ce înseamnă să **amplificăm** sau să **simplificăm** o fracție ordinară.
  – Să înțelegem când și de ce facem aceste operații.
  – Să folosim reguli clare și exemple ușor de urmărit.
  – Să descoperim când o fracție este **ireductibilă**.

@@ -2,7 +2,7 @@
 
 🎯 **Ce ne propunem azi?**
 
-– Să descoperim o metodă rapidă pentru a verifica dacă un număr este divizibil cu **3** sau cu **9**.
+ – Să descoperim o metodă rapidă pentru a verifica dacă un număr este divizibil cu **3** sau cu **9**.
  – Să înțelegem de ce **suma cifrelor** este cheia.
  – Să comparăm cele două criterii și să știm când se aplică fiecare.
  – Să exersăm cu exemple și să rezolvăm provocări inteligente.

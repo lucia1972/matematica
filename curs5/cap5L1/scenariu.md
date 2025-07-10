@@ -2,7 +2,7 @@
 
 🎯 **Ce ne propunem azi?**
 
-– Să înțelegem ce înseamnă ca un număr să fie **divizor** al altuia.
+ – Să înțelegem ce înseamnă ca un număr să fie **divizor** al altuia.
  – Să descoperim ce sunt **multiplii** unui număr natural.
  – Să învățăm cum folosim aceste concepte în probleme reale.
  – Să folosim notațiile matematice corecte: `|`, `⋮`, „se divide”, „este multiplu de…”.

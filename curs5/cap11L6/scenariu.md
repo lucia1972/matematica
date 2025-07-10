@@ -1,8 +1,8 @@
-# 📘 Lecția 6: Mijlocul unui segment
+# Lecția 6: Mijlocul unui segment
 
 🎯 **Ce ne propunem azi?**
 
-– Să învățăm ce înseamnă **mijlocul unui segment**.
+ – Să învățăm ce înseamnă **mijlocul unui segment**.
  – Să determinăm mijlocul prin **măsurare** și prin **construcție geometrică**.
  – Să exersăm noțiunea de **segmente congruente** în acest context.
  – Să aplicăm această idee în desene și probleme concrete.

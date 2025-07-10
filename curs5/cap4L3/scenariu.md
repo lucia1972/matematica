@@ -4,7 +4,7 @@
 
 🎯 **Ce vom învăța azi?**
 
-– Să înțelegem ce este **metoda figurativă** și cum ne ajută să rezolvăm probleme.
+ – Să înțelegem ce este **metoda figurativă** și cum ne ajută să rezolvăm probleme.
  – Să folosim **desene simple (segmente)** pentru a reprezenta relațiile dintre mărimi.
  – Să aplicăm metoda la probleme de tip: sumă și diferență, sumă și cât, diferență și cât, relații de multipli.
  – Să dezvoltăm gândirea logică **vizual**, înainte de calcule.

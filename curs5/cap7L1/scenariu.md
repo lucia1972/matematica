@@ -4,7 +4,7 @@
 
 🎯 **Ce ne propunem azi?**
 
-– Să învățăm cum adunăm și scădem fracții care au același numitor.
+ – Să învățăm cum adunăm și scădem fracții care au același numitor.
  – Să vedem ce facem când fracțiile au **numitori diferiți**.
  – Să exersăm prin exemple simple și situații din viața reală.
 

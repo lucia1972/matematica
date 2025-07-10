@@ -2,7 +2,7 @@
 
 🎯 **Ce ne propunem azi?**
 
-– Să învățăm cum transformăm o fracție supraunitară într-un **număr mixt**.
+ – Să învățăm cum transformăm o fracție supraunitară într-un **număr mixt**.
  – Să știm cum scriem un **număr mixt** sub formă de fracție.
  – Să aplicăm aceste transformări în calcule, desene și situații reale.
  – Să exersăm până devine ușor și natural!

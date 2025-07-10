@@ -1,8 +1,8 @@
-# 📘 Lecția 2: Înmulțirea fracțiilor zecimale cu un număr finit de zecimale nenule
+# Lecția 2: Înmulțirea fracțiilor zecimale cu un număr finit de zecimale nenule
 
 🎯 **Ce ne propunem azi?**
 
-– Să învățăm cum înmulțim un număr zecimal cu un alt număr (natural sau zecimal).
+ – Să învățăm cum înmulțim un număr zecimal cu un alt număr (natural sau zecimal).
  – Să înțelegem cum determinăm corect poziția virgulei în rezultat.
  – Să aplicăm metoda: „fără virgulă → calcul → plasăm virgula la final”.
  – Să folosim înmulțirea în probleme din viața reală.

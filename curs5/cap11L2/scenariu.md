@@ -2,7 +2,7 @@
 
 🎯 **Ce ne propunem azi?**
 
-– Să învățăm să determinăm dacă un punct **aparține** sau **nu aparține** unei drepte.
+ – Să învățăm să determinăm dacă un punct **aparține** sau **nu aparține** unei drepte.
  – Să înțelegem ce înseamnă ca mai multe puncte să fie **coliniare**.
  – Să exersăm aceste noțiuni prin desene clare și observații vizuale.
 

@@ -2,7 +2,7 @@
 
 🎯 **Ce ne propunem azi?**
 
-– Să învățăm cum reprezentăm datele în **grafice cu bare** și în **grafice cu linii**.
+ – Să învățăm cum reprezentăm datele în **grafice cu bare** și în **grafice cu linii**.
  – Să învățăm cum se calculează **media aritmetică** a unui set de date.
  – Să interpretăm datele organizate vizual și să luăm decizii înțelepte pe baza lor.
 

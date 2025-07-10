@@ -4,7 +4,7 @@
 
 ## 🎯 Obiectivele lecției
 
-– Să identificăm principalele **unități de măsură** pentru lungime.
+ – Să identificăm principalele **unități de măsură** pentru lungime.
  – Să învățăm să **transformăm** între unități.
  – Să măsurăm și să construim **segmente de dreaptă** de lungimi date.
  – Să folosim corect **instrumentele de măsură** în geometrie.

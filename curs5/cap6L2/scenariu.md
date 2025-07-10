@@ -2,7 +2,7 @@
 
 🎯 **Ce ne propunem azi?**
 
-– Să înțelegem ce înseamnă ca două fracții să fie **echivalente**.
+ – Să înțelegem ce înseamnă ca două fracții să fie **echivalente**.
  – Să învățăm cum le putem recunoaște, amplifica și simplifica.
  – Să folosim reprezentări vizuale și metode rapide de verificare.
  – Să aplicăm noțiunea în calcule și comparații.

@@ -1,10 +1,10 @@
-# 📘 Lecția 7: Definiție, notații, elemente; interiorul unui unghi, exteriorul unui unghi
+# Lecția 7: Definiție, notații, elemente; interiorul unui unghi, exteriorul unui unghi
 
 ------
 
 ## 🎯 Obiectivele lecției
 
-– Înțelegem ce este un **unghi** în geometrie.
+ – Înțelegem ce este un **unghi** în geometrie.
  – Identificăm elementele componente ale unui unghi.
  – Învățăm să folosim **notațiile geometrice corecte**.
  – Determinăm dacă un punct se află în **interiorul** sau **exteriorul** unui unghi.

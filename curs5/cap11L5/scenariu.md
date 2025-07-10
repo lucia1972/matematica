@@ -1,4 +1,4 @@
-# 📘 Lecția 5: Distanța dintre două puncte. Lungimea unui segment. Segmente congruente
+# Lecția 5: Distanța dintre două puncte. Lungimea unui segment. Segmente congruente
 
 ------
 

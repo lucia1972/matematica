@@ -2,7 +2,7 @@
 
 🎯 **Ce ne propunem azi?**
 
-– Să înțelegem ce înseamnă un **număr prim** și un **număr compus**.
+ – Să înțelegem ce înseamnă un **număr prim** și un **număr compus**.
  – Să învățăm cum identificăm aceste numere și ce proprietăți au.
  – Să descoperim un instrument antic, dar genial: **ciurul lui Eratostene**.
  – Să exersăm prin jocuri logice și exemple interesante.

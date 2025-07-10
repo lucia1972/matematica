@@ -2,7 +2,7 @@
 
 🎯 **Ce ne propunem azi?**
 
-– Să învățăm cum înmulțim două fracții ordinare.
+ – Să învățăm cum înmulțim două fracții ordinare.
  – Să înțelegem cum înmulțim o fracție cu un număr natural.
  – Să descoperim cum și când putem **simplifica înainte** sau **după** înmulțire.
  – Să aplicăm aceste cunoștințe în probleme reale.

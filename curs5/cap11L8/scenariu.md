@@ -4,7 +4,7 @@
 
 ## 🎯 Obiectivele lecției
 
-– Să înțelegem ce înseamnă **măsura unui unghi**.
+ – Să înțelegem ce înseamnă **măsura unui unghi**.
  – Să învățăm să folosim **raportorul** pentru a măsura unghiuri.
  – Să recunoaștem și să comparăm unghiuri de diferite măsuri.
  – Să începem clasificarea unghiurilor după măsură.

@@ -2,7 +2,7 @@
 
 🎯 **Ce ne propunem azi?**
 
-– Să înțelegem ce înseamnă **cel mai mare divizor comun** (c.m.m.d.c.) a două sau mai multe numere.
+ – Să înțelegem ce înseamnă **cel mai mare divizor comun** (c.m.m.d.c.) a două sau mai multe numere.
  – Să învățăm cum se determină prin metode diferite: listarea divizorilor și descompunerea în factori primi.
  – Să aplicăm acest concept în probleme practice și în simplificarea fracțiilor.
  – Să exersăm până când găsirea c.m.m.d.c. devine un automatism.

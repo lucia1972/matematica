@@ -4,7 +4,7 @@
 
 🎯 **Ce vom învăța în această lecție?**
 
-– Să înțelegem cum se aplică **metoda comparației** în rezolvarea problemelor.
+ – Să înțelegem cum se aplică **metoda comparației** în rezolvarea problemelor.
  – Să folosim **diferențele între mărimi** pentru a descoperi necunoscute.
  – Să exersăm cu probleme în care una dintre mărimi este **mai mare sau mai mică** decât cealaltă.
  – Să dezvoltăm gândirea logică prin **construirea și compararea relațiilor numerice**.
@@ -39,7 +39,7 @@ Aceasta este **metoda comparației**: pornim de la o relație de **diferență**
 
 ## 🪜 2. Pașii metodei
 
-1️⃣ **Stabilește ce se compară și care este diferența dintre mărimi**
+ 1️⃣ **Stabilește ce se compară și care este diferența dintre mărimi**
  2️⃣ **Reprezintă mărimile cu o necunoscută (de obicei, prima)**
  3️⃣ **Folosește informațiile din problemă pentru a obține o ecuație simplă**
  4️⃣ **Calculează necunoscuta**

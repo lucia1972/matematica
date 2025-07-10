@@ -2,7 +2,7 @@
 
 🎯 **Ce ne propunem azi?**
 
-– Să învățăm cum comparăm corect două sau mai multe fracții zecimale.
+ – Să învățăm cum comparăm corect două sau mai multe fracții zecimale.
  – Să ordonăm un șir de fracții zecimale în ordine crescătoare sau descrescătoare.
  – Să înțelegem cum poziția cifrelor după virgulă influențează valoarea.
  – Să aplicăm aceste idei în situații reale: prețuri, cantități, note.
