@@ -4,7 +4,7 @@
 
 🎯 **Ce ne propunem azi?**
 
-– Să învățăm cum scriem și citim corect numerele, indiferent cât de mari sunt.
+ – Să învățăm cum scriem și citim corect numerele, indiferent cât de mari sunt.
  – Să descoperim ce înseamnă „scriere pozițională” și de ce contează locul unei cifre într-un număr.
  – Să înțelegem ce e un **palindrom** și ce înseamnă un **număr răsturnat**.
 

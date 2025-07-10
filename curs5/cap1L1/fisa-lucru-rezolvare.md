@@ -143,17 +143,17 @@ Găsește toate numerele naturale de forma $\overline{7ab}$ care îndeplinesc ur
 
 Condiții:
 
-* \$b\$ = dublul lui \$a\$
-* \$a\$ este impară
-  Căutăm toate variantele pentru \$a\$ și \$b\$ astfel încât să fie cifre (adică între 0 și 9).
+* $b$ = dublul lui $a$
+* $a$ este impară
+  Căutăm toate variantele pentru $a$ și $b$ astfel încât să fie cifre (adică între 0 și 9).
 
 📌 Testăm:
 
-* \$a = 1\$ → \$b = 2\$ → Număr: **712**
-* \$a = 3\$ → \$b = 6\$ → Număr: **736**
-* \$a = 5\$ → \$b = 10\$ ❌ (10 nu e cifră)
-* \$a = 7\$ → \$b = 14\$ ❌
-* \$a = 9\$ → \$b = 18\$ ❌
+* $a = 1$ → $b = 2$ → Număr: **712**
+* $a = 3$ → $b = 6$ → Număr: **736**
+* $a = 5$ → $b = 10$ ❌ (10 nu e cifră)
+* $a = 7$ → $b = 14$ ❌
+* $a = 9$ → $b = 18$ ❌
 
 **Răspuns**: Numerele care respectă condițiile sunt **712** și **736**
 
@@ -169,34 +169,34 @@ Găsește toate numerele naturale de forma $\overline{4abc}$ care respectă urm�
 
 Condiții:
 
-* \$a = b + 3\$
-* \$c\$ este **par**
+* $a = b + 3$
+* $c$ este **par**
 
-📌 Testăm toate valorile posibile pentru \$b\$ și aflăm \$a\$, apoi verificăm pentru \$c\$ par:
+📌 Testăm toate valorile posibile pentru $b$ și aflăm $a$, apoi verificăm pentru $c$ par:
 
-* \$b = 0\$ → \$a = 3\$
-  → \$c\$ poate fi 0, 2, 4, 6, 8 →
+* $b = 0$ → $a = 3$
+  → $c$ poate fi 0, 2, 4, 6, 8 →
   → Numere: **4300, 4302, 4304, 4306, 4308**
 
-* \$b = 1\$ → \$a = 4\$
+* $b = 1$ → $a = 4$
   → Numere: **4410, 4412, 4414, 4416, 4418**
 
-* \$b = 2\$ → \$a = 5\$
+* $b = 2$ → $a = 5$
   → Numere: **4520, 4522, 4524, 4526, 4528**
 
-* \$b = 3\$ → \$a = 6\$
+* $b = 3$ → $a = 6$
   → Numere: **4630, 4632, 4634, 4636, 4638**
 
-* \$b = 4\$ → \$a = 7\$
+* $b = 4$ → $a = 7$
   → Numere: **4740, 4742, 4744, 4746, 4748**
 
-* \$b = 5\$ → \$a = 8\$
+* $b = 5$ → $a = 8$
   → Numere: **4850, 4852, 4854, 4856, 4858**
 
-* \$b = 6\$ → \$a = 9\$
+* $b = 6$ → $a = 9$
   → Numere: **4960, 4962, 4964, 4966, 4968**
 
-* \$b = 7\$ → \$a = 10\$ ❌ (10 nu e cifră)
+* $b = 7$ → $a = 10$ ❌ (10 nu e cifră)
 
 **Răspuns final**:
 Numerele sunt:
