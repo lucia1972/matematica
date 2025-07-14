@@ -108,21 +108,25 @@ Cifrele se grupează în **clase de câte 3**, de la **dreapta spre stânga**:
 
 Astfel, prin gruparea numerelor în aceste clase, putem înțelege mult mai ușor valoarea fiecărei cifre și locul ei în numărul mare.
 
+Dar acest lucru nu este suficient doar pentru a înțelege la ce se referă fiecare cifră. Avem nevoie și de o structură internă mai detaliată, care ne ajută să înțelegem mai clar **rolul fiecărei poziții**.
+
 ------
 
 ### 🧩 Ce înseamnă ordine?
 
-Fiecare clasă conține trei poziții, numite **ordine**:
+Fiecare **clasă** este împărțită în trei **ordine**. Aceste ordine sunt **sute**, **zeci** și **unități**, iar fiecare dintre ele ne spune mai precis ce înseamnă cifra din acea poziție:
 
 ```
 | Sute | Zeci | Unități |
 ```
 
-🎙️ „Asta înseamnă că într-un număr mare, putem spune exact ce înseamnă fiecare cifră, în funcție de **clasa** și **ordinul** în care se află.”
+🎙️ „Așadar, într-un număr mare, putem spune exact ce înseamnă fiecare cifră, în funcție de **clasa** și **ordinul** în care se află. De exemplu, dacă cifra 5 se află în clasa **milioanelor**, dar în ordinea **unităților**, aceasta va reprezenta 5 milioane, nu 5 unități.”
 
 ------
 
 ### 🏗️ Structură completă:
+
+Și pentru a înțelege mai bine cum sunt organizate toate acestea într-un număr mare, iată cum arată structura completă a unui număr format din câteva clase:
 
 ```
 | Miliarde | Milioane | Mii     | Unități  |
@@ -136,7 +140,7 @@ Fiecare clasă conține trei poziții, numite **ordine**:
 
 ### 🔍 Exemplu vizual:
 
-Pentru numărul `325 716 902`, avem:
+Să aplicăm acum ce am învățat despre clase și ordine unui număr mare, precum **325 716 902**
 
 ```
 325 → clasa milioanelor  
@@ -144,16 +148,21 @@ Pentru numărul `325 716 902`, avem:
 902 → clasa unităților
 ```
 
-🎙️ „Cifra 2 este în **clasa unităților**, ordinul unităților → valorează 2
- Cifra 3 este în **clasa milioanelor**, ordinul sutelor → valorează 300 de milioane!”
+🎙️  „Astfel, cifra **2** este în **clasa unităților**, la **ordinul unităților**, deci valoarea ei este **2**. 
+
+Pe de altă parte, cifra **3** se află în **clasa milioanelor**, la **ordinul sutelor**, așadar aceasta valorează **300 de milioane**.”
 
 ------
 
 ### 💡 De ce e util?
 
-✅ Ne ajută să citim rapid numere mari
- ✅ Scriem mai clar: `43 105 873`, nu `43105873`
- ✅ Putem spune valoarea exactă a fiecărei cifre
+✅ Acum că am înțeles cum funcționează structura numerelor mari, iată de ce acest sistem este atât de important:
+
+✅ **Ne ajută să citim rapid numere mari**, întrucât știm exact ce valoare are fiecare cifră, în funcție de clasa și ordinea în care se află.
+
+✅ **Scriem mai clar numerele**: de exemplu, în loc să scriem „43105873”, folosim gruparea în clase și ordini, scriind „43 105 873”, ceea ce face numărul mai ușor de citit și înțeles.
+
+✅ **Putem spune valoarea exactă a fiecărei cifre**: indiferent cât de mare este numărul, știm exact ce înseamnă fiecare cifră datorită structurii pe care am construit-o.
 
 ------
 
@@ -168,7 +177,9 @@ Asta ne ajută să citim, să scriem și să înțelegem mai ușor numerele mari
 
 ## SLIDE 6: Exemplu de citire și descompunere
 
-📌 **Exemplu ales:**
+ Acum că știm cum funcționează acest sistem de poziționare a cifrelor, haideți să aplicăm cunoștințele și să vedem un exemplu concret. Vom învăța cum să citim corect un număr mare și cum să-l descompunem pentru a înțelege valoarea fiecărei cifre în parte.
+
+## 📌 **Exemplu ales:**
 
 ```
 43 105 873
@@ -183,7 +194,7 @@ Asta ne ajută să citim, să scriem și să înțelegem mai ușor numerele mari
 ✍️
 
 ```
-cssCopyEdit43 105 873
+43 105 873
 →   milioane   mii   unități
 ```
 
@@ -200,7 +211,7 @@ cssCopyEdit43 105 873
 > „Îl citim de la stânga la dreapta:”
 
 ```
-cssCopyEdit→ Patruzeci și trei de milioane  
+Patruzeci și trei de milioane  
    o sută cinci mii  
    opt sute șaptezeci și trei
 ```
@@ -259,29 +270,11 @@ cssCopyEdit→ Patruzeci și trei de milioane
 
 ------
 
-💡 Dacă vrei, pot crea și un tabel animat pentru acest slide, de tipul:
-
-```
-| Cifră | Ordin (Poziție)      | Valoare               |
-|-------|----------------------|------------------------|
-|   4   | zeci de milioane     | 4 × 10.000.000 = 40M   |
-|   3   | unități de milioane  | 3 × 1.000.000 = 3M     |
-|   1   | sute de mii          | 1 × 100.000 = 100.000  |
-|   0   | zeci de mii          | 0 × 10.000 = 0         |
-|   5   | mii                  | 5 × 1.000 = 5.000      |
-|   8   | sute                 | 8 × 100 = 800          |
-|   7   | zeci                 | 7 × 10 = 70            |
-|   3   | unități              | 3 × 1 = 3              |
-```
-
-## 🎞️ SLIDE 7: Număr răsturnat vs Palindrom
-
 ### 🟢 Introducere narativă:
 
-🎙️ „Unele numere sunt speciale. Dacă le întorci... ele tot la fel rămân!”
- 🎙️ „Altele se transformă complet. Hai să le descoperim pe amândouă!”
+🎙️ „Așadar, după ce am învățat cum să înțelegem și să citim corect numerele mari, să explorăm un concept mai interesant: numerele care sunt la fel, chiar dacă le întorci!”
 
-------
+🎙️ „Este ca și cum am privi un obiect dintr-un alt unghi. Unele numere rămân aceleași, chiar și când le întorci, în timp ce altele se schimbă complet. Haideți să vedem mai departe cum funcționează asta!”
 
 ### 🔁 1. Numărul răsturnat
 
@@ -315,75 +308,26 @@ cssCopyEdit→ Patruzeci și trei de milioane
 12321 → 12321
 ```
 
-📌 Palindroamele sunt **simetrice**. Le recunoști imediat!
+📌 **Palindroamele sunt numere sau cuvinte simetrice** – adică acele cuvinte sau numere care se citesc la fel, indiferent de direcția în care le parcurgi. Le recunoști ușor!
 
-🧠 Gândește-te la cuvinte precum:
+🧠 **Exemple de cuvinte care sunt palindroame:**
  **ANA, RADAR, OTTO, SOS, POP**
 
 ------
 
-## **Animație Split Screen – Număr răsturnat vs Palindrom**
+Dacă rostim un număr răsturnat, înseamnă că am schimbat ordinea cifrelor lui.
 
-### 🖼️ Vizual: ecran împărțit vertical în două coloane egale
+În schimb, un palindrom se citește exact la fel de la stânga la dreapta și de la dreapta la stânga.
 
-#### 🔹 Partea stângă: **Număr răsturnat**
-
-#### 🔸 Partea dreaptă: **Palindrom**
-
-------
-
-### 🧩 **Etapa 1 – Introducere simultană**
-
-🎙️
-
-> „Avem două tipuri de numere speciale.
->  Pe partea stângă – numerele răsturnate.
->  Pe partea dreaptă – palindroamele!”
-
-🖼️ Ecranul se împarte în două. Apare:
-
-- Stânga: titlul **NUMĂR RĂSTURNAT**, cu un icon rotit 🔁
-- Dreapta: titlul **PALINDROM**, cu o oglindă 🪞
-
-------
-
-### 🔁 **Partea stângă – Număr răsturnat (animație)**
-
-1. Apare un număr: `348`
-
-2. O săgeată de întoarcere → `843`
-
-3. Apare text explicativ animat:
-
-   > „Am inversat cifrele: 348 → 843”
-
-🎙️
-
-> „Un număr răsturnat are cifrele în ordine inversă.”
-
-------
-
-### 🔂 **Partea dreaptă – Palindrom (animație)**
-
-1. Apare un număr: `121`
-
-2. Se reflectă în oglindă → `121`
-
-3. Apare text explicativ animat:
-
-   > „Se citește la fel în ambele sensuri.”
-
-🎙️
-
-> „Un palindrom este simetric. Îl citești la fel, indiferent de direcție.”
+Cu alte cuvinte, un palindrom este simetric – îl citești la fel, indiferent de sensul în care te uiți.
 
 ### 🟣 Comparație rapidă (poți face o animație tip split screen):
 
-| Caracteristică          | Număr răsturnat | Palindrom               |
-| ----------------------- | --------------- | ----------------------- |
-| Cifrele sunt inversate? | ✅ Da            | ✅ Da (dar rămân la fel) |
-| Se citește identic?     | ❌ Nu neapărat   | ✅ Da                    |
-| Exemple                 | 432 → 234       | 121, 9009, 12321        |
+| Caracteristică                       | Număr răsturnat | Palindrom               |
+| ------------------------------------ | --------------- | ----------------------- |
+| Cifrele sunt inversate?              | ✅ Da            | ✅ Da (dar rămân la fel) |
+| Se citește la fel în ambele sensuri? | ❌ Nu neapărat   | ✅ Da                    |
+| Exemple                              | 432 → 234       | 121, 9009, 12321        |
 
 
 
@@ -406,7 +350,7 @@ cssCopyEdit→ Patruzeci și trei de milioane
 ✍️ *Text mare, clar:*
 
 ```
-perlCopyEditUn număr răsturnat se schimbă.  
+Un număr răsturnat se schimbă.  
 Un palindrom… rămâne la fel!
 ```
 
@@ -449,7 +393,7 @@ Un palindrom… rămâne la fel!
 #### 🔹 Exemple cu 9 cifre (includem și clasa milioanelor):
 
 ```
-cssCopyEdit325 716 902 → trei sute douăzeci și cinci de milioane  
+325 716 902 → trei sute douăzeci și cinci de milioane  
                șapte sute șaisprezece mii  
                nouă sute doi
 ```
@@ -488,7 +432,7 @@ cssCopyEdit325 716 902 → trei sute douăzeci și cinci de milioane
  Exemplu:
 
 ```
-cssCopyEdit4 → 4 unități  
+4 → 4 unități  
 40 → 4 zeci  
 400 → 4 sute
 ```
@@ -508,10 +452,6 @@ cssCopyEdit4 → 4 unități
  Exemplu:
 
 ```
-scss
-
-
-CopyEdit
 1 234 567 (mai ușor de citit decât 1234567)
 ```
 
