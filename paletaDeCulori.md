@@ -21,3 +21,32 @@
 <tr><td>17</td><td>Albastru foarte deschis</td><td><div style='width:60px;height:20px;background-color:#DFEBF6;border:1px solid #ccc;'></div></td><td>#DFEBF6</td><td>rgb(223, 235, 246)</td></tr>
 <tr><td>18</td><td>Gri foarte deschis</td><td><div style='width:60px;height:20px;background-color:#E6E6E6;border:1px solid #ccc;'></div></td><td>#E6E6E6</td><td>rgb(230, 230, 230)</td></tr>
 </table>
+
+
+
+# Destinații pentru Culori
+
+Completează coloana „Destinație” în funcție de utilizarea dorită (ex: fundal, buton primar, text, accent etc.)
+
+| Nume culoare           | Destinație |
+
+|------------------------|------------|
+| Maro închis              |              |
+| Maro                           |              |
+| Verde deschis |              |
+| Albastru calm |              |
+| Gri deschis |              |
+| Alb cald |              |
+| Roșu cald |              |
+| Galben cald |              |
+| Verde vibrant |              |
+| Galben aprins |              |
+| Portocaliu aprins |              |
+| Roșu aprins |              |
+| Albastru foarte închis |              |
+| Albastru-gri închis |              |
+| Gri-albastru mediu |              |
+| Albastru pastel |              |
+| Albastru foarte deschis |              |
+| Gri foarte deschis |              |
+
