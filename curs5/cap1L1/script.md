@@ -5,8 +5,7 @@
 ### 🎞️ SLIDE 1: Titlul lecției
 
 ```
-cssCopyEdit📘 Lecția 1  
-Scrierea și citirea numerelor naturale
+Lecția 1  Scrierea și citirea numerelor naturale
 ```
 
 ------
@@ -16,36 +15,47 @@ Scrierea și citirea numerelor naturale
 🎯 Ce ne propunem azi?
 
 - Să scriem și să citim corect numerele, oricât de mari ar fi
+
 - Să înțelegem ce înseamnă scrierea pozițională
-- Să descoperim ce sunt palindroamele și numerele răsturnate
+
 - Să învățăm cum se grupează cifrele în clase și ordine
 
-------
+- Să descoperim ce sunt palindroamele și numerele răsturnate
+
+  
 
 ### 🎞️ SLIDE 3: Numere naturale
 
 🔢 Numerele naturale sunt:
 
 ```
-CopyEdit
 0, 1, 2, 3, ..., 9, 10, 11, ...
 ```
 
 ➡️ **Se scriu în sistem zecimal**
- – Folosim baza 10. Fiecare poziție valorează de 10 ori mai mult decât cea din dreapta.
+ – Folosim **baza 10**, adică fiecare poziție valorează de 10 ori mai mult decât poziția imediat următoare (ex. 10, 100, 1000, etc.).
 
 ➡️ **Se formează din doar 10 cifre:**
 
 ```
-CopyEdit
 0 1 2 3 4 5 6 7 8 9
 ```
 
-➡️ **Nu au sfârșit**
- – Numerele naturale sunt infinite. Le putem continua mereu cu încă 1.
+➡️ **Numerele naturale sunt infinite: nu au sfârșit**
+ – Nu se termină niciodată, pentru că putem adăuga mereu 1 la orice număr natural.
 
-➡️ **Încep cu 0 doar dacă sunt formate dintr-o singură cifră**
- – Scriem `0`, dar nu scriem `023`.
+➡️ **Regula pentru scrierea numerelor:
+ Atunci când scriem numere naturale, este important să ținem cont de un aspect esențial: **
+
+numerele naturale pot începe cu 0 doar atunci când este vorba de 0 însuși**. **
+
+**De exemplu, vom scrie **0** atunci când ne referim la numărul zero. 
+
+Însă, pentru orice număr mai mare de 9, **nu folosim 0 la început**. De aceea, în loc să scriem **023**, vom scrie doar **23**.
+
+Dar știi ce e interesant? Chiar și atunci când nu folosim 0 în fața unui număr, **locul în care plasăm cifrele face diferența în valoarea lor**. 
+
+Aici intervine conceptul de **scriere pozițională**.
 
 ------
 
@@ -56,7 +66,7 @@ CopyEdit
 🎙️ „Hai să vedem ce se întâmplă cu cifra **3**, în funcție de locul în care o punem:”
 
 ```
-CopyEdit3       → 3 unități  
+3       → 3 unități  
 30      → 3 zeci = 3 × 10  
 300     → 3 sute = 3 × 100  
 3 000   → 3 mii = 3 × 1.000
@@ -64,9 +74,11 @@ CopyEdit3       → 3 unități
 
 💡 Observăm că:
 
-- Cifra este aceeași – **3**
-- Dar poziția o face să valoreze mai mult
-- Fiecare pas spre stânga înseamnă înmulțire cu 10
+- Observăm că cifra rămâne aceeași – **3** – dar valoarea ei crește pe măsură ce o punem în locuri din ce în ce mai mari. 
+
+- Așezarea într-un loc diferit, la stânga, face ca valoarea cifrei să se **multiplice** de fiecare dată cu 10.
+
+  Prin urmare, **scrierea pozițională** înseamnă că fiecare poziție în care așezăm o cifră are o valoare de 10 ori mai mare decât poziția imediat din dreapta. Așezând cifra într-o anumită poziție, aceasta devine o **putere a 10**.
 
 📢 De aceea spunem că folosim un **sistem pozițional** – poziția contează mai mult decât cifra în sine.
 
@@ -76,7 +88,7 @@ CopyEdit3       → 3 unități
 
  **Cum ne organizăm când scriem numere mari?**
 
-🎙️ *"Când avem un număr cu multe cifre, e ușor să ne încurcăm. De aceea, folosim un sistem de grupare a cifrelor în **clase** și **ordine**."*
+🎙️  *"Atunci când avem un număr cu multe cifre, ne poate fi greu să îl citim sau să îl înțelegem corect. De aceea, folosim un sistem simplu de grupare a cifrelor în **clase** și **ordine**."*
 
 ------
 
@@ -85,14 +97,16 @@ CopyEdit3       → 3 unități
 Cifrele se grupează în **clase de câte 3**, de la **dreapta spre stânga**:
 
 ```
-kotlin
-
-
-CopyEdit
 | Miliarde | Milioane | Mii     | Unități  |
 ```
 
-🎙️ „Fiecare grup de trei cifre formează o **clasă**. Prima clasă, de la dreapta, este clasa **unităților**. Apoi urmează clasa **miilor**, apoi **milioanelor**, apoi **miliardelor**... și tot așa.”
+🎙️  *„Fiecare grup de trei cifre formează o **clasă** distinctă. *
+
+*Prima clasă, de la dreapta, este clasa **unităților**. *
+
+*Urmează clasa **miilor**, apoi **milioanelor**, apoi **miliardelor**… și tot așa.”*
+
+Astfel, prin gruparea numerelor în aceste clase, putem înțelege mult mai ușor valoarea fiecărei cifre și locul ei în numărul mare.
 
 ------
 
@@ -101,10 +115,6 @@ CopyEdit
 Fiecare clasă conține trei poziții, numite **ordine**:
 
 ```
-kotlin
-
-
-CopyEdit
 | Sute | Zeci | Unități |
 ```
 
@@ -115,7 +125,7 @@ CopyEdit
 ### 🏗️ Structură completă:
 
 ```
-kotlinCopyEdit| Miliarde | Milioane | Mii     | Unități  |
+| Miliarde | Milioane | Mii     | Unități  |
 |----------|----------|---------|----------|
 | Sute     | Sute     | Sute    | Sute     |
 | Zeci     | Zeci     | Zeci    | Zeci     |
@@ -129,7 +139,7 @@ kotlinCopyEdit| Miliarde | Milioane | Mii     | Unități  |
 Pentru numărul `325 716 902`, avem:
 
 ```
-CopyEdit325 → clasa milioanelor  
+325 → clasa milioanelor  
 716 → clasa miilor  
 902 → clasa unităților
 ```
@@ -150,7 +160,7 @@ CopyEdit325 → clasa milioanelor
 ### ✍️ Text final (pentru memorie vizuală):
 
 ```
-cssCopyEdit🎯 Fiecare cifră aparține unei clase și are un ordin.  
+🎯 Fiecare cifră aparține unei clase și are un ordin.  
 Asta ne ajută să citim, să scriem și să înțelegem mai ușor numerele mari.
 ```
 
@@ -161,7 +171,6 @@ Asta ne ajută să citim, să scriem și să înțelegem mai ușor numerele mari
 📌 **Exemplu ales:**
 
 ```
-CopyEdit
 43 105 873
 ```
 
@@ -207,7 +216,7 @@ cssCopyEdit→ Patruzeci și trei de milioane
 > „Acum să vedem ce înseamnă **fiecare cifră** și cât valorează.”
 
 ```
-diffCopyEdit= 4 × 10.000.000  
+= 4 × 10.000.000  
 + 3 × 1.000.000  
 + 1 × 100.000  
 + 0 × 10.000  
@@ -253,7 +262,7 @@ diffCopyEdit= 4 × 10.000.000
 💡 Dacă vrei, pot crea și un tabel animat pentru acest slide, de tipul:
 
 ```
-luaCopyEdit| Cifră | Ordin (Poziție)      | Valoare               |
+| Cifră | Ordin (Poziție)      | Valoare               |
 |-------|----------------------|------------------------|
 |   4   | zeci de milioane     | 4 × 10.000.000 = 40M   |
 |   3   | unități de milioane  | 3 × 1.000.000 = 3M     |
@@ -282,7 +291,7 @@ luaCopyEdit| Cifră | Ordin (Poziție)      | Valoare               |
 📊 Exemplu simplu:
 
 ```
-yamlCopyEdit123  →  321  
+123  →  321  
 7089 → 9807  
 1000 → 0001 → 1 (eliminăm zerourile din față)
 ```
@@ -300,7 +309,7 @@ yamlCopyEdit123  →  321
 📊 Exemple:
 
 ```
-yamlCopyEdit121   → 121  
+121   → 121  
 7447  → 7447  
 888   → 888  
 12321 → 12321
@@ -412,7 +421,7 @@ Un palindrom… rămâne la fel!
 #### 🔹 Exemple simple (pentru încălzire):
 
 ```
-cssCopyEdit7         → șapte  
+7         → șapte  
 42        → patruzeci și doi  
 358       → trei sute cincizeci și opt
 ```
@@ -424,7 +433,7 @@ cssCopyEdit7         → șapte
 #### 🔹 Exemple cu 6 cifre (introducem clasa miilor):
 
 ```
-cssCopyEdit456 731   → patru sute cincizeci și șase de mii  
+456 731   → patru sute cincizeci și șase de mii  
              șapte sute treizeci și unu
 ```
 
@@ -463,7 +472,7 @@ cssCopyEdit325 716 902 → trei sute douăzeci și cinci de milioane
 
 ### 🎞️ SLIDE 9: Reguli importante
 
-✅ Poziția contează!
+ ✅ Poziția contează!
  ✅ Nu începem cu 0 (doar `0` e valid)
  ✅ Grupăm cifrele în clase de câte 3
  ✅ Citim întotdeauna de la stânga spre dreapta
@@ -513,10 +522,6 @@ CopyEdit
  Exemplu:
 
 ```
-css
-
-
-CopyEdit
 245 000 → două sute patruzeci și cinci de mii
 ```
 
@@ -534,7 +539,7 @@ CopyEdit
  Exemple:
 
 ```
-makefileCopyEditPalindrom: 1221, 888  
+Palindrom: 1221, 888  
 Răsturnat: 135 → 531
 ```
 
@@ -574,7 +579,7 @@ Răsturnat: 135 → 531
    – Cifra 3 poate însemna:
 
   ```
-  cssCopyEdit3 → 3 unități  
+  3 → 3 unități  
   30 → 3 zeci  
   300 → 3 sute  
   3 000 → 3 mii
@@ -590,25 +595,21 @@ Răsturnat: 135 → 531
    – Fiecare clasă are:
 
   ```
-  css
-  
-  
-  CopyEdit
   Unități, Zeci, Sute
   ```
-
+  
   ------
-
+  
   🔁 **4. Am învățat două tipuri speciale de numere:**
 
   – **Număr răsturnat**: cifrele în ordine inversă
    `123 → 321`
-
+  
   – **Palindrom**: se citește la fel de la stânga și de la dreapta
    `121, 333, 7447`
-
+  
   ------
-
+  
   🧠 **5. Reguli importante de reținut:**
 
   - Nu începem un număr cu 0 (decât dacă e doar `0`)
@@ -616,7 +617,7 @@ Răsturnat: 135 → 531
   - Fiecare cifră are un **ordin** și face parte dintr-o **clasă**
 
   ------
-
+  
   ✅ **Toate aceste idei te ajută să scrii, citești și înțelegi numerele fără frică, chiar și pe cele foarte mari!**
 
   ------
@@ -624,10 +625,6 @@ Răsturnat: 135 → 531
   🎯 *Final de slide (mare, centrat):*
 
   ```
-  css
-  
-  
-  CopyEdit
   Recunoaște cifrele. Respectă pozițiile. Stăpânește numerele!
   ```
 
@@ -638,7 +635,6 @@ Răsturnat: 135 → 531
 ✍️ *Text final, mare, clar, cu efect de zoom:*
 
 ```
-CopyEdit
 ✨ Poziția dă puterea cifrei! ✨
 ```
 
