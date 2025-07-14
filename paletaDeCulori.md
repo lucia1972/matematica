@@ -43,10 +43,10 @@ Completează coloana „Destinație” în funcție de utilizarea dorită (ex: f
 | Galben aprins           |              |
 | Portocaliu aprins |              |
 | Roșu aprins             |              |
-| Albastru foarte închis |              |
+| Albastru foarte închis |  background    |
 | Albastru-gri închis |              |
 | Gri-albastru mediu |              |
 | Albastru pastel      |              |
 | Albastru foarte deschis |              |
-| Gri foarte deschis         |              |
+| Gri foarte deschis         |    gridul foii cu 1F la transparenta        |
 
