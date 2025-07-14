@@ -33,20 +33,20 @@ Completează coloana „Destinație” în funcție de utilizarea dorită (ex: f
 |------------------------|------------|
 | Maro închis              |              |
 | Maro                           |              |
-| Verde deschis |              |
-| Albastru calm |              |
-| Gri deschis |              |
-| Alb cald |              |
-| Roșu cald |              |
-| Galben cald |              |
-| Verde vibrant |              |
-| Galben aprins |              |
+| Verde deschis          |              |
+| Albastru calm         |              |
+| Gri deschis              |              |
+| Alb cald                    |              |
+| Roșu cald                 |              |
+| Galben cald            |              |
+| Verde vibrant         |              |
+| Galben aprins           |              |
 | Portocaliu aprins |              |
-| Roșu aprins |              |
+| Roșu aprins             |              |
 | Albastru foarte închis |              |
 | Albastru-gri închis |              |
 | Gri-albastru mediu |              |
-| Albastru pastel |              |
+| Albastru pastel      |              |
 | Albastru foarte deschis |              |
-| Gri foarte deschis |              |
+| Gri foarte deschis         |              |
 
