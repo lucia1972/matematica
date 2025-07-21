@@ -2,7 +2,7 @@
 
 🎯 **Ce ne propunem azi?**
 
-– Să învățăm ce este o axă a numerelor și cum o construim.
+ – Să învățăm ce este o axă a numerelor și cum o construim.
  – Să identificăm succesorul și predecesorul unui număr.
  – Să înțelegem cum plasăm corect numerele pe axă.
  – Să rezolvăm exerciții simple prin măsurare și raționament vizual.

@@ -4,8 +4,8 @@
 
 - Să învățăm cum scriem și citim corect numerele, indiferent cât de mari sunt.
 - Să descoperim ce înseamnă „scriere pozițională” și de ce contează locul unei cifre într-un număr.
-- Să înțelegem ce înseamnă un **palindrom** și ce este un **număr răsturnat**.
 - Să învățăm cum se grupează cifrele în clase și ordine.
+- Să înțelegem ce înseamnă un **palindrom** și ce este un **număr răsturnat**.
 
 ------
 
