@@ -28,25 +28,24 @@
 
 Completează coloana „Destinație” în funcție de utilizarea dorită (ex: fundal, buton primar, text, accent etc.)
 
-| Nume culoare           | Destinație |
-
-|------------------------|------------|
-| Maro închis              |              |
-| Maro                           |              |
-| Verde deschis          |              |
-| Albastru calm         |              |
-| Gri deschis              |              |
-| Alb cald                    |              |
-| Roșu cald                 |              |
-| Galben cald            |              |
-| Verde vibrant         |              |
-| Galben aprins           |              |
-| Portocaliu aprins |              |
-| Roșu aprins             |              |
-| Albastru foarte închis |  background    |
-| Albastru-gri închis |              |
-| Gri-albastru mediu |              |
-| Albastru pastel      |              |
-| Albastru foarte deschis |              |
-| Gri foarte deschis         |    gridul foii cu 1F la transparenta        |
+| Nume culoare            | Destinație recomandată        |
+| ----------------------- | ----------------------------- |
+| Maro închis             | Titluri accentuate            |
+| Maro                    | Text secundar                 |
+| Verde deschis           | Completări de elevi           |
+| Albastru calm           | Note explicative              |
+| Gri deschis             | Linie discretă                |
+| Alb cald                | Fundal complet (dacă suportă) |
+| Roșu cald               | Corecturi                     |
+| Galben cald             | Subtitluri evidențiate        |
+| Verde vibrant           | Răspunsuri corecte            |
+| Galben aprins           | Marker – evidențiere clară    |
+| Portocaliu aprins       | Observații importante         |
+| Roșu aprins             | Greșeli / atenționări         |
+| Albastru foarte închis  | Fundal sau contrast puternic  |
+| Albastru-gri închis     | Text tehnic, linii auxiliare  |
+| Gri-albastru mediu      | Linii de ghidaj               |
+| Albastru pastel         | Fundal linii exercițiu        |
+| Albastru foarte deschis | Umplere discretă              |
+| Gri foarte deschis      | Grilă pătrățele (cu 1F alpha) |
 
