@@ -1,38 +1,20 @@
 ## ✨ Introducere
 
 În lecția anterioară am făcut cunoștință cu lumea **numerelor naturale** – numerele pe care le folosim zilnic pentru a număra obiecte: 0, 1, 2, 3, 4, 5... Am descoperit că unele dintre ele sunt **palindromice**, adică se citesc la fel de la stânga la dreapta și invers (cum este 121), și am învățat cum să **răsturnăm un număr**, scriindu-l cu cifrele în ordine inversă.
+___
+(aici spun obiectivele)
+___
 
-Astăzi pășim mai departe și începem să **așezăm aceste numere** pe o linie dreaptă. Imediat ce învățăm să privim numerele într-o ordine clară pe o **axă a numerelor**, ni se va deschide o lume nouă: putem compara distanțe, putem măsura, putem înțelege ce înseamnă succesor, predecesor sau chiar noțiuni mai avansate precum fracții și ecuații. Axa numerelor e ca o hartă care ne ajută să înțelegem matematica pas cu pas!
-
----
-
-Voi înlocui și în eseul complet această introducere și voi continua acum cu **scenariul de prezentare a lecției**, așa cum mi-ai cerut.
-
-
-# 🎬 Scenariul lecției: Reprezentarea numerelor naturale pe axa numerelor
-
----
-
-👩‍🏫 **Tonul:** prietenos, cald, cu un strop de curiozitate
-👦 **Public-țintă:** elevi de clasa a V-a
-📚 **Durata estimată:** 15-20 minute
-🧩 **Obiectiv:** Elevii învață cum se reprezintă un număr natural pe axa numerelor și ce înseamnă coordonata unui punct.
-
----
-
-## 🎙️ Introducere (1-2 min)
-
-> *Salutare, dragilor! Bine ați revenit la ora de matematică! Data trecută am intrat împreună în lumea numerelor naturale și am aflat că unele dintre ele sunt mai speciale – palindromice, adică se citesc la fel și de la stânga, și de la dreapta, sau răsturnate, ca în jocul de cuvinte cu oglinda! Astăzi vom merge mai departe și vom pune aceste numere „în ordine” – la propriu!*
-
-> *Ne vom juca cu o linie dreaptă magică – axa numerelor – care ne ajută să vedem clar unde se află fiecare număr și cât de departe este de punctul de start. E ca o riglă fără sfârșit!*
-
----
+Astăzi pășim mai departe și începem să ne jucam cu o linie magica, incepem sa **așezăm aceste numere** pe o linie dreaptă. Imediat ce învățăm să privim numerele într-o ordine clară pe o **axă a numerelor**, ni se va deschide o lume nouă: putem compara distanțe, putem măsura, putem înțelege ce înseamnă succesor, predecesor sau chiar noțiuni mai avansate precum fracții și ecuații. Axa numerelor e ca o rigla fara sfarsit care ne ajută să înțelegem matematica pas cu pas!
 
 ## 🧠 Activare (3 min)
 
-> *Ca să începem, imaginați-vă că mergeți cu părinții într-o excursie cu mașina. Plecați de la kilometrul 0, iar la fiecare kilometru vedeți o bornă: 1, 2, 3… Ați văzut așa ceva, nu? Ei bine, aceste borne sunt ca niște numere pe o linie dreaptă.*
+Gândește-te că ești într-un parc de distracții și te urci într-un trenuleț care pornește din stația 0. La fiecare 10 metri, există o stație marcată cu o plăcuță: 0, 10, 20, 30... Ești curios să știi unde vei fi dacă mergi 6 stații. Câte metri ai parcurs?
 
-> *Dacă la kilometrul 96 începe un tunel de 4 kilometri, la ce kilometru ieșiți din tunel? Așa este: la kilometrul 100. Ați folosit fără să vă dați seama o axă a numerelor în minte!*
+Răspuns: 6 × 10 = 60 metri. Pe plăcuță va scrie 60. Asta înseamnă că ai mers 6 unități de măsură (în acest caz, câte 10 metri), în direcția înainte.
+
+Exact așa funcționează și axa numerelor: e ca o linie cu stații, unde fiecare număr are un loc precis. Cu cât mergi mai departe, cu atât crește numărul pe care îl vezi.
+
 
 ---
 
