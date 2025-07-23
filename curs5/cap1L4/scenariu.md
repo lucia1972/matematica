@@ -2,7 +2,7 @@
 
 🎯 **Ce învățăm azi?**
 
-– Să înțelegem ce înseamnă **aproximarea unui număr** și de ce e folositoare în viața de zi cu zi.
+ – Să înțelegem ce înseamnă **aproximarea unui număr** și de ce e folositoare în viața de zi cu zi.
  – Să învățăm **cum rotunjim** un număr în sus sau în jos, în funcție de ce cifră vine după.
  – Să știm cum să **aproximăm un număr la zeci, sute sau mii**, în ambele sensuri – prin lipsă sau adaos.
  – Să învățăm **care e diferența** dintre aproximare și estimare, cu exemple din viața reală.

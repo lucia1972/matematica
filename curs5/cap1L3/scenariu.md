@@ -1,10 +1,12 @@
 # 📘 Lecția 3: Compararea și ordonarea numerelor naturale
+După ce în lecțiile anterioare am învățat ce sunt numere naturale, ne-am întrebat adesea: „Dar cum știm care număr e mai mare?” Astăzi, pășim într-o lume în care comparăm numere cu ochiul unui detectiv matematic, învățând să le punem în ordine și să înțelegem ce înseamnă să fii „mai mare”, „mai mic” sau „egal” într-un mod precis și sigur.
+
 
 🎯 **Ce ne propunem azi?**
 
  – Să învățăm cum comparăm două sau mai multe numere naturale, folosind reguli clare și sigure.
  – Să știm când un număr este mai mare sau mai mic decât altul.
- – Să folosim simbolurile <, > și = corect.
+ – Să folosim simbolurile <, >, >=, <= și = corect.
  – Să formăm șiruri ordonate de numere, crescător sau descrescător.
  – Să înțelegem cum ne ajută axa numerelor în comparații.
 
@@ -15,7 +17,8 @@
 🎙️
 
 > „Te-ai întrebat vreodată cine e mai înalt: tu sau prietenul tău?
->  Sau cine a luat nota mai mare la un test? Sau care oraș are mai mulți locuitori?”
+> Sau cine a luat nota mai mare la un test? 
+> Sau care oraș are mai mulți locuitori?”
 >
 > „În fiecare zi comparăm lucruri. Chiar și fără să ne dăm seama. Matematica ne ajută să facem asta rapid și precis.”
 
@@ -24,27 +27,37 @@
 > „Azi învățăm cum comparăm numere. Când sunt mari, mici, egale și cum le așezăm în ordine.”
 
 ------
+## 🔹 1. Simboluri magice: <, >, =
 
-## 🔹 1. Cum comparăm două numere? (Strategia de bază)
+
+„Avem 3 simboluri magice care ne ajută să comparăm orice două numere, simplu și clar!”
+<  – mai mic decât  
+>  – mai mare decât  
+=  – egal cu
+Dar cum ții minte ce înseamnă < și >? Uite un truc super simplu:
+
+🐊
+
+Gura crocodilului flămând 🐊 se deschide întotdeauna spre numărul mai mare, pentru că el vrea să mănânce cea mai mare cantitate!
+
+## 🔹 2. Cum comparăm două numere? (Strategia de bază)
 
 🎙️
 
 > „Mai întâi ne uităm la **câte cifre** are fiecare număr.”
+Primul pas este să ne uităm la câte cifre are fiecare număr. De ce? Pentru că un număr cu mai multe cifre este automat mai mare!”
 
+🧠
+
+Imaginează-ți că ai două castele: unul are 5 turnuri, altul are 3. Care e mai mare? Cel cu 5 turnuri, nu-i așa? Exact la fel este și cu numerele!
 ✍️
 
 ```
-Exemplu: 67 și 143
-```
-
-🎙️
-
-> „143 are 3 cifre, iar 67 are doar 2. Deci 143 este mai mare.”
-
-✍️
-
-```
-67 < 143
+Exemplu: 6 și 78
+> „6 are 1 cifre, iar 78 are doar 2. Deci 78 este mai mare. Gura crocodilului se va deschide catre 78 sa il inghita”
+> 
+sau
+78 < 882
 ```
 
 🎙️
@@ -61,35 +74,6 @@ Exemplu: 67 și 143
 
 > „E ca și cum ai compara două cuvinte litera cu litera. Prima diferență hotărăște!”
 
-------
-
-## 🔹 2. Simboluri magice: <, >, =
-
-🎙️
-
-> „Avem 3 simboluri simple care spun totul despre comparații:”
-
-✍️
-
-```
-<  – mai mic decât  
->  – mai mare decât  
-=  – egal cu
-```
-
-🎙️
-
-> „Exemplu: 321 > 123 – adică 321 este mai mare decât 123.”
-
-> „Ca să nu uiți niciodată: *gura crocodilului* 🐊 se deschide întotdeauna spre numărul mai mare!”
-
-✍️
-
-```
-25 < 80 → crocodilul mănâncă 80, că e mai mare 😄
-```
-
-------
 
 ## 🔹 3. Comparăm și în viața de zi cu zi
 
@@ -168,11 +152,6 @@ Ordine descrescătoare = de la cel mai mare la cel mai mic
 🎙️
 
 > „Numărul care e mai **spre dreapta** este întotdeauna mai mare!”
-
-✍️
-
-```
-36 este înaintea lui 48 → deci 36 < 48
 ```
 
 🎙️
@@ -195,10 +174,6 @@ Ordine descrescătoare = de la cel mai mare la cel mai mic
 3. Ordonează crescător: 91, 45, 102, 12  
 4. Ordonează descrescător: 78, 4, 99, 56  
 5. Care e mai spre dreapta pe axă: 23 sau 19?
-```
-
-🎙️
-
 > „Poți opri videoclipul dacă vrei timp. Când ești gata, reluăm împreună răspunsurile!”
 
 ------
